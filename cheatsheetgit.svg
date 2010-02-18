@@ -1,0 +1,3464 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.36"
+   height="744.09003"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="cheatsheetgit.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient11710">
+      <stop
+         style="stop-color:#1c4eff;stop-opacity:1;"
+         offset="0"
+         id="stop11712" />
+      <stop
+         style="stop-color:#00b9ff;stop-opacity:1;"
+         offset="1"
+         id="stop11714" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path4056"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4035"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2842"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2888"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2913"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2947"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2972"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2994"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3019"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3044"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3084"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3118"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3158"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3192"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3239"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5788"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-6"
+       style="overflow:visible">
+      <path
+         id="path4056-3"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5794"
+       style="overflow:visible">
+      <path
+         id="path5796"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective6051"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6080"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6147"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-0"
+       style="overflow:visible">
+      <path
+         id="path4056-38"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective6185"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6223"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6245"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6270"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6301"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6348"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6410"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6452"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6505"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6527"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6549"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6595"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6668"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6690"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6712"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7772"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7830"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7855"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7880"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7959"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7997"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8057"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8088"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8113"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8149"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8179"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8201"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8279"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8338"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8360"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8382"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8407"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8450"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8571"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8593"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8733"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8777"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8830"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8863"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8922"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8950"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8986"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9033"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9060"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9089"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9129"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9192"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9223"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9272"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9329"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9781"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9841"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10883"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10932"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10966"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11000"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11034"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11080"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11132"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11186"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11220"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11395"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11417"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11439"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11468"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11507"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11529"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11551"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11584"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11584-8"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11643"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11667"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11689"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11710"
+       id="linearGradient11716"
+       x1="660.46875"
+       y1="570.375"
+       x2="660.46875"
+       y2="530.06152"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.88828049,0,0,0.88828049,75.574284,2378.9818)" />
+    <inkscape:perspective
+       id="perspective11730"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11710-5"
+       id="linearGradient11716-8"
+       x1="660.46875"
+       y1="570.375"
+       x2="660.46875"
+       y2="530.06152"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.88828049,0,0,0.88828049,75.574284,2378.9818)" />
+    <linearGradient
+       id="linearGradient11710-5">
+      <stop
+         style="stop-color:#1c4eff;stop-opacity:1;"
+         offset="0"
+         id="stop11712-7" />
+      <stop
+         style="stop-color:#00b9ff;stop-opacity:1;"
+         offset="1"
+         id="stop11714-7" />
+    </linearGradient>
+    <linearGradient
+       y2="530.06152"
+       x2="660.46875"
+       y1="570.375"
+       x1="660.46875"
+       gradientTransform="matrix(-0.88828049,0,0,0.88828049,1288.7156,2428.9818)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient11741"
+       xlink:href="#linearGradient11710-5"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       id="perspective11803"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11710-6"
+       id="linearGradient11716-1"
+       x1="660.46875"
+       y1="570.375"
+       x2="660.46875"
+       y2="530.06152"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.88828049,0,0,0.88828049,75.574284,2378.9818)" />
+    <linearGradient
+       id="linearGradient11710-6">
+      <stop
+         style="stop-color:#1c4eff;stop-opacity:1;"
+         offset="0"
+         id="stop11712-4" />
+      <stop
+         style="stop-color:#00b9ff;stop-opacity:1;"
+         offset="1"
+         id="stop11714-6" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective11841"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       y2="534.71545"
+       x2="725.07581"
+       y1="565.72174"
+       x1="725.07581"
+       gradientTransform="matrix(-0.88828049,0,0,0.88828049,1288.7156,2412.4818)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient11812-7"
+       xlink:href="#linearGradient11710-6-9"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient11710-6-9">
+      <stop
+         style="stop-color:#1c4eff;stop-opacity:1;"
+         offset="0"
+         id="stop11712-4-6" />
+      <stop
+         style="stop-color:#00b9ff;stop-opacity:1;"
+         offset="1"
+         id="stop11714-6-4" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective11898"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11923"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       y2="534.71545"
+       x2="725.07581"
+       y1="565.72174"
+       x1="725.07581"
+       gradientTransform="matrix(-0.88828049,0,0,0.88828049,1288.7156,2412.4818)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient11812-2"
+       xlink:href="#linearGradient11710-6-6"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient11710-6-6">
+      <stop
+         style="stop-color:#1c4eff;stop-opacity:1;"
+         offset="0"
+         id="stop11712-4-1" />
+      <stop
+         style="stop-color:#00b9ff;stop-opacity:1;"
+         offset="1"
+         id="stop11714-6-7" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11710-6"
+       id="linearGradient11996"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.88828049,0,0,0.88828049,1288.7156,2412.4818)"
+       x1="725.07581"
+       y1="565.72174"
+       x2="725.07581"
+       y2="534.71545" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11710-6-9"
+       id="linearGradient11998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.88828049,0,0,0.88828049,4.07426,2386.2318)"
+       x1="725.07581"
+       y1="565.72174"
+       x2="725.07581"
+       y2="534.71545" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11710-6-6"
+       id="linearGradient12000"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.88828049,0,0,0.88828049,1359.8207,2432.5882)"
+       x1="725.07581"
+       y1="565.72174"
+       x2="725.07581"
+       y2="534.71545" />
+    <inkscape:perspective
+       id="perspective12010"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12032"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12063"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12094"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12137"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12163"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12185"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12207"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12703"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12734"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12767"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12789"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12880"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10335-9"
+       id="linearGradient10375-6"
+       gradientUnits="userSpaceOnUse"
+       x1="721.7951"
+       y1="705.58557"
+       x2="689.27637"
+       y2="680.72919" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10335-9">
+      <stop
+         style="stop-color:#ffb620;stop-opacity:1;"
+         offset="0"
+         id="stop10337-9" />
+      <stop
+         style="stop-color:#ffb620;stop-opacity:0;"
+         offset="1"
+         id="stop10339-2" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective12938"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12984"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective13009"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective13034"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective13059"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective13090"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10335-9-5">
+      <stop
+         style="stop-color:#ffb620;stop-opacity:1;"
+         offset="0"
+         id="stop10337-9-2" />
+      <stop
+         style="stop-color:#ffb620;stop-opacity:0;"
+         offset="1"
+         id="stop10339-2-2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10335-9-5"
+       id="linearGradient13338"
+       gradientUnits="userSpaceOnUse"
+       x1="721.7951"
+       y1="705.58557"
+       x2="689.27637"
+       y2="680.72919" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="500.59388"
+     inkscape:cy="98.927366"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1004"
+     inkscape:window-x="-4"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-2412.9966)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="11.428572"
+       y="2457.0867"
+       id="text2816"><tspan
+         sodipodi:role="line"
+         id="tspan2818"
+         x="11.428572"
+         y="2457.0867">Git Cheat Sheet</tspan></text>
+    <rect
+       style="fill:#1c4eff;fill-opacity:1;stroke-width:0.60000001999999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213"
+       width="1039.447"
+       height="40.406101"
+       x="6.0609155"
+       y="2478.2642" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="887.14233"
+       y="2511.249"
+       id="text2820"><tspan
+         sodipodi:role="line"
+         id="tspan2822"
+         x="887.14233"
+         y="2511.249"
+         style="font-size:20px;fill:#ffffff">Configuration</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="928.92505"
+       y="2533.1858"
+       id="text2820-1"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7"
+         x="928.92505"
+         y="2533.1858"
+         style="font-size:10px">git config [--global] -l</tspan></text>
+    <path
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="path2864"
+       d="m 1021.6813,2536.1218 -9.8499,0 0,-2.0396 0.7655,0 0,1.1149 8.3189,0 0,-1.1149 0.7655,0 0,2.0396 z"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       sodipodi:nodetypes="ccc"
+       id="path2868"
+       d="m 1020.8164,2538.6938 0,14.8214 -11.5778,0"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend);font-family:Bitstream Vera Sans" />
+    <text
+       id="text2876"
+       y="2555.5715"
+       x="942.66571"
+       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2555.5715"
+         x="942.66571"
+         id="tspan2878"
+         sodipodi:role="line">list current configs</tspan></text>
+    <path
+       sodipodi:nodetypes="ccc"
+       id="path2868-4"
+       d="m 988.63587,2538.0105 0,6.2254 -11.83031,0"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:url(#Arrow2Lend);font-family:Bitstream Vera Sans" />
+    <text
+       id="text2876-9"
+       y="2545.7085"
+       x="923.59552"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2545.7085"
+         x="923.59552"
+         id="tspan2878-4"
+         sodipodi:role="line"
+         style="font-size:8px">global for user</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-3-7"
+       width="167.30775"
+       height="32.577419"
+       x="878.2002"
+       y="2562.1069" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="936.1861"
+       y="2581.4478"
+       id="text2820-8"><tspan
+         sodipodi:role="line"
+         id="tspan2822-8"
+         x="936.1861"
+         y="2581.4478"
+         style="font-size:10px;text-align:end;text-anchor:end">user</tspan></text>
+    <path
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="path2864-2"
+       d="m 939.26087,2593.79 0,-29.8699 4.74146,0 0,1.7795 -2.59167,0 0,26.3108 2.59167,0 0,1.7796 -4.74146,0 z"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="944.02997"
+       y="2575.9985"
+       id="text2820-8-4"><tspan
+         sodipodi:role="line"
+         id="tspan2822-8-5"
+         x="944.02997"
+         y="2575.9985"
+         style="font-size:10px">user.name $name</tspan><tspan
+         sodipodi:role="line"
+         x="944.02997"
+         y="2588.4985"
+         style="font-size:10px"
+         id="tspan11456">user.email $email</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="943.742"
+       y="2587.8411"
+       id="text2820-8-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan2822-8-5-1"
+         x="943.742"
+         y="2587.8411"
+         style="font-size:10px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="936.78436"
+       y="2608.25"
+       id="text2820-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan2822-8-1"
+         x="936.78436"
+         y="2608.25"
+         style="font-size:10px;text-align:end;text-anchor:end">color</tspan></text>
+    <path
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="path2864-2-1"
+       d="m 939.14487,2613.9502 0,-18.4413 4.74146,0 0,1.7795 -2.59167,0 0,14.8822 2.59167,0 0,1.7796 -4.74146,0 z"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="943.91394"
+       y="2608.25"
+       id="text2820-8-4-52"><tspan
+         sodipodi:role="line"
+         id="tspan2822-8-5-7"
+         x="943.91394"
+         y="2608.25"
+         style="font-size:10px">color.ui auto</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-3-7-4"
+       width="167.30775"
+       height="20.708128"
+       x="878.2002"
+       y="2614.6616" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="936.841"
+       y="2628.4644"
+       id="text2820-8-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan2822-8-1-2"
+         x="936.841"
+         y="2628.4644"
+         style="font-size:10px;text-align:end;text-anchor:end">windows</tspan></text>
+    <path
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="path2864-2-1-3"
+       d="m 939.20151,2634.1645 0,-18.4413 4.74146,0 0,1.7795 -2.59167,0 0,14.8822 2.59167,0 0,1.7796 -4.74146,0 z"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="943.97058"
+       y="2628.5254"
+       id="text2820-8-4-52-2"><tspan
+         sodipodi:role="line"
+         id="tspan2822-8-5-7-2"
+         x="943.97058"
+         y="2628.5254"
+         style="font-size:10px">core.autocrlf true</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="935.78937"
+       y="2653.6848"
+       id="text2820-8-1"><tspan
+         sodipodi:role="line"
+         id="tspan2822-8-6"
+         x="935.78937"
+         y="2653.6848"
+         style="font-size:10px;text-align:end;text-anchor:end">github</tspan></text>
+    <path
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="path2864-2-8"
+       d="m 938.86417,2666.093 0,-29.8699 4.74147,0 0,1.7795 -2.59168,0 0,26.3108 2.59168,0 0,1.7796 -4.74147,0 z"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="943.6333"
+       y="2648.7153"
+       id="text2820-8-4-57"><tspan
+         sodipodi:role="line"
+         id="tspan2822-8-5-6"
+         x="943.6333"
+         y="2648.7153"
+         style="font-size:10px">github.user $user</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="943.34534"
+       y="2660.144"
+       id="text2820-8-4-5-1"><tspan
+         sodipodi:role="line"
+         id="tspan2822-8-5-1-8"
+         x="943.34534"
+         y="2660.144"
+         style="font-size:10px">github.token $token</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-3-7-4-3"
+       width="167.30775"
+       height="32.577419"
+       x="878.2002"
+       y="2667.1667" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="936.12671"
+       y="2685.7434"
+       id="text2820-8-7-4-9"><tspan
+         sodipodi:role="line"
+         id="tspan2822-8-1-2-2"
+         x="936.12671"
+         y="2685.7434"
+         style="font-size:10px;text-align:end;text-anchor:end">optimisation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="943.25635"
+       y="2680.4407"
+       id="text2820-8-4-52-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan2822-8-5-7-2-5"
+         x="943.25635"
+         y="2680.4407"
+         style="font-size:10px">pack.threads 0</tspan><tspan
+         sodipodi:role="line"
+         x="943.25635"
+         y="2692.9407"
+         style="font-size:10px"
+         id="tspan11458">diff.renamelimit 0</tspan></text>
+    <path
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="path2864-2-8-4"
+       d="m 938.86417,2698.093 0,-29.8699 4.74147,0 0,1.7795 -2.59168,0 0,26.3108 2.59168,0 0,1.7796 -4.74147,0 z"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="22.385849"
+       y="2513.7744"
+       id="text2820-7"><tspan
+         sodipodi:role="line"
+         id="tspan2822-88"
+         x="22.385849"
+         y="2513.7744"
+         style="font-size:20px;fill:#ffffff">Create</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="29.501007"
+       y="2533.6909"
+       id="text2820-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9"
+         x="29.501007"
+         y="2533.6909"
+         style="font-size:10">From existing data</tspan></text>
+    <text
+       id="text2876-7"
+       y="2548.6135"
+       x="50.418457"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2548.6135"
+         x="50.418457"
+         id="tspan2878-7"
+         sodipodi:role="line">cd ~/projects/myproject</tspan><tspan
+         y="2561.1135"
+         x="50.418457"
+         sodipodi:role="line"
+         id="tspan6068">git init</tspan><tspan
+         y="2573.6135"
+         x="50.418457"
+         sodipodi:role="line"
+         id="tspan6070">git add .</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8"
+       width="242.30415"
+       height="53.033009"
+       x="6.0609155"
+       y="2577.7205" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="29.501007"
+       y="2588.7441"
+       id="text2820-1-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-1"
+         x="29.501007"
+         y="2588.7441"
+         style="font-size:10">From existing repo</tspan></text>
+    <text
+       id="text2876-7-8"
+       y="2603.6667"
+       x="50.418457"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2603.6667"
+         x="50.418457"
+         sodipodi:role="line"
+         id="tspan6070-6">git clone ~/existing/repo ~/new/repo</tspan><tspan
+         y="2616.1667"
+         x="50.418457"
+         sodipodi:role="line"
+         id="tspan6137">git clone you@host.org:dir/project.git</tspan></text>
+    <path
+       sodipodi:nodetypes="ccc"
+       id="path2868-0"
+       d="m 112.32979,2621.2034 0,3.4572 13.92858,0"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Lend);font-family:Bitstream Vera Sans" />
+    <text
+       id="text2876-1"
+       y="2626.2117"
+       x="127.87076"
+       style="font-size:6px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2626.2117"
+         x="127.87076"
+         id="tspan2878-2"
+         sodipodi:role="line">default = ssh</tspan></text>
+    <text
+       id="text2876-7-5"
+       y="2473.9077"
+       x="105.3795"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2473.9077"
+         x="105.3795"
+         sodipodi:role="line"
+         id="tspan6070-4">http://git-scm.com/</tspan></text>
+    <rect
+       style="fill:#1c4eff;fill-opacity:1;stroke-width:0.60000001999999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7"
+       width="172.30415"
+       height="40.406101"
+       x="873.2038"
+       y="2422.7407" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="887.09277"
+       y="2448.834"
+       id="text2820-83"><tspan
+         sodipodi:role="line"
+         id="tspan2822-5"
+         x="887.09277"
+         y="2448.834"
+         style="font-size:20px;fill:#ffffff">Help</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="938.3158"
+       y="2438.0493"
+       id="text2820-1-1"><tspan
+         sodipodi:role="line"
+         x="938.3158"
+         y="2438.0493"
+         style="font-size:12px;fill:#ffffff"
+         id="tspan6287">git help</tspan><tspan
+         sodipodi:role="line"
+         x="938.3158"
+         y="2453.0493"
+         style="font-size:12px;fill:#ffffff"
+         id="tspan6291">git help [command]</tspan></text>
+    <rect
+       style="fill:#1c4eff;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0"
+       width="242.30415"
+       height="40.406101"
+       x="6.0609155"
+       y="2639.7407" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="22.385849"
+       y="2675.249"
+       id="text2820-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan2822-88-0"
+         x="22.385849"
+         y="2675.249"
+         style="font-size:20px;fill:#ffffff">Show</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="29.501007"
+       y="2694.3052"
+       id="text2820-1-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3"
+         x="29.501007"
+         y="2694.3052"
+         style="font-size:10px">Files changed in working directory</tspan></text>
+    <text
+       id="text2876-7-9"
+       y="2709.2278"
+       x="50.418457"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2709.2278"
+         x="50.418457"
+         sodipodi:role="line"
+         id="tspan6070-0">git status</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-3"
+       width="242.30415"
+       height="30.304577"
+       x="6.0609155"
+       y="2717.7205" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="29.501007"
+       y="2728.3052"
+       id="text2820-1-2-4-8"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-7"
+         x="29.501007"
+         y="2728.3052"
+         style="font-size:10px">Changes to tracked files</tspan></text>
+    <text
+       id="text2876-7-9-7"
+       y="2743.2278"
+       x="50.418457"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2743.2278"
+         x="50.418457"
+         sodipodi:role="line"
+         id="tspan6070-0-8">git dif</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="29.501007"
+       y="2762.3052"
+       id="text2820-1-2-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-1"
+         x="29.501007"
+         y="2762.3052"
+         style="font-size:10px">Changes between $id1 and $id2</tspan></text>
+    <text
+       id="text2876-7-9-0"
+       y="2777.2278"
+       x="50.418457"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2777.2278"
+         x="50.418457"
+         sodipodi:role="line"
+         id="tspan6070-0-7">git diff $id1 $id2</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-3-3"
+       width="242.30415"
+       height="30.304577"
+       x="6.0609155"
+       y="2785.7205" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="29.501007"
+       y="2796.3052"
+       id="text2820-1-2-4-8-4"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-7-9"
+         x="29.501007"
+         y="2796.3052"
+         style="font-size:10px">History of changes</tspan></text>
+    <text
+       id="text2876-7-9-7-6"
+       y="2811.2278"
+       x="50.418457"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2811.2278"
+         x="50.418457"
+         sodipodi:role="line"
+         id="tspan6070-0-8-5">git log</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-3-6"
+       width="242.30415"
+       height="30.304577"
+       x="6.0609155"
+       y="2855.7205" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="29.501007"
+       y="2866.0552"
+       id="text2820-1-2-4-1"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-0"
+         x="29.501007"
+         y="2866.0552"
+         style="font-size:10px">Who changed what and when in a file</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-3-3-5"
+       width="242.30415"
+       height="30.304577"
+       x="6.0609155"
+       y="2923.7205" />
+    <text
+       id="text2876-7-9-9"
+       y="2880.9778"
+       x="50.418457"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2880.9778"
+         x="50.418457"
+         sodipodi:role="line"
+         id="tspan6070-0-9">git blame $file</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="29.501007"
+       y="2900.0552"
+       id="text2820-1-2-4-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-7-3"
+         x="29.501007"
+         y="2900.0552"
+         style="font-size:10px">A commit identified by $id</tspan></text>
+    <text
+       id="text2876-7-9-7-4"
+       y="2914.9778"
+       x="50.418457"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2914.9778"
+         x="50.418457"
+         sodipodi:role="line"
+         id="tspan6070-0-8-8">git show $id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="29.501007"
+       y="2934.0552"
+       id="text2820-1-2-4-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-1-9"
+         x="29.501007"
+         y="2934.0552"
+         style="font-size:10px">A specific file from a specific $id</tspan></text>
+    <text
+       id="text2876-7-9-0-9"
+       y="2948.9778"
+       x="50.418457"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2948.9778"
+         x="50.418457"
+         sodipodi:role="line"
+         id="tspan6070-0-7-2">git diff $id1:$file</tspan></text>
+    <text
+       id="text2876-8-8"
+       y="2697.7854"
+       x="947.59924"
+       style="font-size:8px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2697.7854"
+         x="947.59924"
+         id="tspan2878-0-8"
+         sodipodi:role="line"
+         style="font-size:6px">(do not use on low memory pc)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="29.501007"
+       y="3086.3052"
+       id="text2820-1-2-4-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-0-6"
+         x="29.501007"
+         y="3086.3052"
+         style="font-size:10px;fill:#1c4eff;fill-opacity:1">$id : notation used int this sheet to represent</tspan><tspan
+         sodipodi:role="line"
+         x="29.501007"
+         y="3098.8052"
+         style="font-size:10px;fill:#1c4eff;fill-opacity:1"
+         id="tspan7979">either a commit id, branch or a tag name</tspan><tspan
+         sodipodi:role="line"
+         x="29.501007"
+         y="3111.3052"
+         style="font-size:10px;fill:#1c4eff;fill-opacity:1"
+         id="tspan7981" /><tspan
+         sodipodi:role="line"
+         x="29.501007"
+         y="3123.8052"
+         style="font-size:10px;fill:#1c4eff;fill-opacity:1"
+         id="tspan7983">$file : arbitrary file name</tspan><tspan
+         sodipodi:role="line"
+         x="29.501007"
+         y="3136.3052"
+         style="font-size:10px;fill:#1c4eff;fill-opacity:1"
+         id="tspan7985" /><tspan
+         sodipodi:role="line"
+         x="29.501007"
+         y="3148.8052"
+         style="font-size:10px;fill:#1c4eff;fill-opacity:1"
+         id="tspan7987">$branch : arbitrary branch name</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000001999999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-1"
+       width="242.30415"
+       height="40.406101"
+       x="6.0609155"
+       y="3029.7407" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="22.385849"
+       y="3065.249"
+       id="text2820-7-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan2822-88-0-4"
+         x="22.385849"
+         y="3065.249"
+         style="font-size:20px;fill:#1c4eff;fill-opacity:1">Cheat Sheet Notation</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-3-3-5-2"
+       width="242.30415"
+       height="30.304577"
+       x="6.0609155"
+       y="2991.7205" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="29.501007"
+       y="2968.0552"
+       id="text2820-1-2-4-8-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-7-9-3"
+         x="29.501007"
+         y="2968.0552"
+         style="font-size:10px">All local branches</tspan></text>
+    <text
+       id="text2876-7-9-7-6-3"
+       y="2982.9778"
+       x="50.418457"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2982.9778"
+         x="50.418457"
+         sodipodi:role="line"
+         id="tspan6070-0-8-5-3">git branch</tspan></text>
+    <text
+       id="text2876-8"
+       y="2984.4783"
+       x="120.43414"
+       style="font-size:8px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2984.4783"
+         x="120.43414"
+         id="tspan2878-0"
+         sodipodi:role="line">(star &quot;*&quot; marks the current branch)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="29.501007"
+       y="3002.0552"
+       id="text2820-1-2-4-7-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-1-9-5"
+         x="29.501007"
+         y="3002.0552"
+         style="font-size:10px">Search for patterns in working tree files, blob,tree</tspan></text>
+    <text
+       id="text2876-7-9-0-9-8"
+       y="3016.9778"
+       x="50.418457"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="3016.9778"
+         x="50.418457"
+         sodipodi:role="line"
+         id="tspan8041">git grep &lt;pattern&gt; [path]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="29.501007"
+       y="2832.3052"
+       id="text2820-1-2-4-8-4-5-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-7-9-3-5-1"
+         x="29.501007"
+         y="2832.3052"
+         style="font-size:10px">History of changes with files changed</tspan></text>
+    <text
+       id="text2876-7-9-7-6-3-3-8"
+       y="2847.2278"
+       x="50.418457"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2847.2278"
+         x="50.418457"
+         sodipodi:role="line"
+         id="tspan8045-2">git whatchanged</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="258.38586"
+       y="2513.7744"
+       id="text2820-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan2822-88-1"
+         x="258.38586"
+         y="2513.7744"
+         style="font-size:20px;fill:#ffffff">Concepts</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-2"
+       width="242.30415"
+       height="11.111678"
+       x="254.66528"
+       y="2536.6003" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-2-2"
+       width="242.30415"
+       height="11.111678"
+       x="254.66528"
+       y="2560.5913" />
+    <text
+       id="text2876-7-97"
+       y="2532.6135"
+       x="266.41846"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2532.6135"
+         x="266.41846"
+         sodipodi:role="line"
+         id="tspan6070-9">master</tspan><tspan
+         y="2545.1135"
+         x="266.41846"
+         sodipodi:role="line"
+         id="tspan8163">origin</tspan><tspan
+         y="2557.6135"
+         x="266.41846"
+         sodipodi:role="line"
+         id="tspan8165">HEAD</tspan><tspan
+         y="2570.1135"
+         x="266.41846"
+         sodipodi:role="line"
+         id="tspan8167">HEAD^</tspan><tspan
+         y="2582.6135"
+         x="266.41846"
+         sodipodi:role="line"
+         id="tspan8169">HEAD-4</tspan></text>
+    <text
+       id="text2876-7-97-1"
+       y="2532.6135"
+       x="306.41846"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2532.6135"
+         x="306.41846"
+         sodipodi:role="line"
+         id="tspan8169-5">:</tspan><tspan
+         y="2545.1135"
+         x="306.41846"
+         sodipodi:role="line"
+         id="tspan8263">:</tspan><tspan
+         y="2557.6135"
+         x="306.41846"
+         sodipodi:role="line"
+         id="tspan8265">:</tspan><tspan
+         y="2570.1135"
+         x="306.41846"
+         sodipodi:role="line"
+         id="tspan8267">:</tspan><tspan
+         y="2582.6135"
+         x="306.41846"
+         sodipodi:role="line"
+         id="tspan8269">:</tspan></text>
+    <text
+       id="text2876-7-97-1-2"
+       y="2532.6135"
+       x="320.41846"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2532.6135"
+         x="320.41846"
+         sodipodi:role="line"
+         id="tspan8269-7">default development branch</tspan><tspan
+         y="2545.1135"
+         x="320.41846"
+         sodipodi:role="line"
+         id="tspan8322">default upstream repository</tspan><tspan
+         y="2557.6135"
+         x="320.41846"
+         sodipodi:role="line"
+         id="tspan8324">current branch</tspan><tspan
+         y="2570.1135"
+         x="320.41846"
+         sodipodi:role="line"
+         id="tspan8326">parent of HEAD</tspan><tspan
+         y="2582.6135"
+         x="320.41846"
+         sodipodi:role="line"
+         id="tspan8328">the great-great grandparent of HEAD</tspan></text>
+    <rect
+       style="fill:#1c4eff;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-1"
+       width="199.57828"
+       height="40.406101"
+       x="669.2533"
+       y="2422.7407" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="683.14215"
+       y="2448.834"
+       id="text2820-83-9"><tspan
+         sodipodi:role="line"
+         id="tspan2822-5-6"
+         x="683.14215"
+         y="2448.834"
+         style="font-size:20px;fill:#ffffff">Links</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="734.36517"
+       y="2438.0493"
+       id="text2820-1-1-9"><tspan
+         sodipodi:role="line"
+         x="734.36517"
+         y="2438.0493"
+         style="font-size:12px;fill:#ffffff"
+         id="tspan6287-8">http://book.git-scm.com/</tspan><tspan
+         sodipodi:role="line"
+         x="734.36517"
+         y="2453.0493"
+         style="font-size:12px;fill:#ffffff"
+         id="tspan6291-2">http://learn.github.com/</tspan></text>
+    <path
+       style="fill:none;stroke:#1c4eff;stroke-width:1.00110447;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 254.59905,2588.3707 242.37348,0"
+       id="path8436" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-2-5"
+       width="242.30415"
+       height="11.111678"
+       x="254.66528"
+       y="2602.6003" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-2-2-5"
+       width="242.30415"
+       height="11.111678"
+       x="254.66528"
+       y="2626.5913" />
+    <text
+       id="text2876-7-97-4"
+       y="2598.6135"
+       x="266.41846"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2598.6135"
+         x="266.41846"
+         sodipodi:role="line"
+         id="tspan8169-0">blob</tspan><tspan
+         y="2611.1135"
+         x="266.41846"
+         sodipodi:role="line"
+         id="tspan8535">tree</tspan><tspan
+         y="2623.6135"
+         x="266.41846"
+         sodipodi:role="line"
+         id="tspan8537">commit</tspan><tspan
+         y="2636.1135"
+         x="266.41846"
+         sodipodi:role="line"
+         id="tspan8539">tag</tspan></text>
+    <text
+       id="text2876-7-97-1-8"
+       y="2598.6135"
+       x="306.41846"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2598.6135"
+         x="306.41846"
+         sodipodi:role="line"
+         id="tspan8169-5-3">:</tspan><tspan
+         y="2611.1135"
+         x="306.41846"
+         sodipodi:role="line"
+         id="tspan8263-9">:</tspan><tspan
+         y="2623.6135"
+         x="306.41846"
+         sodipodi:role="line"
+         id="tspan8265-3">:</tspan><tspan
+         y="2636.1135"
+         x="306.41846"
+         sodipodi:role="line"
+         id="tspan8269-6">:</tspan></text>
+    <text
+       id="text2876-7-97-1-2-7"
+       y="2598.6135"
+       x="320.41846"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2598.6135"
+         x="320.41846"
+         sodipodi:role="line"
+         id="tspan8328-9">object that stores file data</tspan><tspan
+         y="2611.1135"
+         x="320.41846"
+         sodipodi:role="line"
+         id="tspan8555">stores blob or other trees</tspan><tspan
+         y="2623.6135"
+         x="320.41846"
+         sodipodi:role="line"
+         id="tspan8557">points to a single tree</tspan><tspan
+         y="2636.1135"
+         x="320.41846"
+         sodipodi:role="line"
+         id="tspan8559">mark a commit in a special way</tspan></text>
+    <rect
+       style="fill:#1c4eff;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-2"
+       width="242.30415"
+       height="40.406101"
+       x="254.66528"
+       y="2643.9937" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="271.98007"
+       y="2679.502"
+       id="text2820-7-4-8"><tspan
+         sodipodi:role="line"
+         id="tspan2822-88-0-2"
+         x="271.98007"
+         y="2679.502"
+         style="font-size:20px;fill:#ffffff">Commit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="279.09521"
+       y="2698.5581"
+       id="text2820-1-2-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-3"
+         x="279.09521"
+         y="2698.5581"
+         style="font-size:10px">Everything that as changed in versionned files</tspan></text>
+    <text
+       id="text2876-7-9-6"
+       y="2713.4807"
+       x="300.01266"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2713.4807"
+         x="300.01266"
+         sodipodi:role="line"
+         id="tspan8765">git commit -am &quot;Commit message&quot;</tspan></text>
+    <text
+       id="text2876-7-8-1"
+       y="2726.5164"
+       x="299.02283"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2726.5164"
+         x="299.02283"
+         sodipodi:role="line"
+         id="tspan6137-6">git commit -a</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8847"
+       style="font-size:6px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(98.5,2419.4966)"><flowRegion
+         id="flowRegion8849"><rect
+           id="rect8851"
+           width="113.21428"
+           height="23.928572"
+           x="260.35715"
+           y="297.66147"
+           style="font-size:6px;fill:#808080;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8853">(Uses the default text editor set in the environment variable &quot;EDITOR&quot;)</flowPara></flowRoot>    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-3-1"
+       width="242.30415"
+       height="30.304577"
+       x="254.66528"
+       y="2734.9343" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="278.10538"
+       y="2745.519"
+       id="text2820-1-2-4-8-5"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-7-0"
+         x="278.10538"
+         y="2745.519"
+         style="font-size:10px">Stagged files</tspan></text>
+    <text
+       id="text2876-7-9-7-3"
+       y="2760.4417"
+       x="299.02283"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2760.4417"
+         x="299.02283"
+         sodipodi:role="line"
+         id="tspan6070-0-8-6">git commit</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-2-5-4"
+       width="366.04785"
+       height="229.03156"
+       x="505.34454"
+       y="2519.9988" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="514.38586"
+       y="2513.7744"
+       id="text2820-7-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan2822-88-1-4"
+         x="514.38586"
+         y="2513.7744"
+         style="font-size:20px;fill:#ffffff">Workflow</tspan></text>
+    <g
+       id="g11264"
+       transform="translate(17.836505,6.08758)">
+      <path
+         transform="translate(0,2412.9966)"
+         id="path9885"
+         d="M 535.27983,196.08227 C 556.84659,143.75637 615.89,135.9782 615.89,135.9782"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         transform="translate(2.4748737,81.196276)"
+         id="g9163">
+        <rect
+           style="fill:#ffffff;stroke:#1c4eff;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect6213-7-0-2-4-0"
+           width="48.359409"
+           height="43.147617"
+           x="511.57031"
+           y="2525.345"
+           rx="5"
+           ry="5" />
+        <path
+           style="fill:#1c4eff;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dashoffset:0"
+           d="m 516.12684,112.48575 c -2.5274,0.2551 -4.46875,2.4031 -4.46875,5 l 0,7.12669 48.3606,0 0,-7.12669 c 0,-2.77 -2.23,-5 -5,-5 l -38.3606,0 c -0.17313,0 -0.36276,-0.017 -0.53125,0 z"
+           transform="translate(0,2412.9966)"
+           id="rect6213-7-0-2-4"
+           sodipodi:nodetypes="cccccccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="535.71094"
+           y="2536.6658"
+           id="text2820-7-4-8-9"><tspan
+             sodipodi:role="line"
+             id="tspan2822-88-0-2-2"
+             x="535.71094"
+             y="2536.6658"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#ffffff">create</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="535.71094"
+           y="2549.6379"
+           id="text2820-7-4-8-9-6"><tspan
+             sodipodi:role="line"
+             id="tspan2822-88-0-2-2-3"
+             x="535.71094"
+             y="2549.6379"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">init</tspan><tspan
+             sodipodi:role="line"
+             x="535.71094"
+             y="2562.1379"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+             id="tspan9050">clone</tspan></text>
+      </g>
+      <g
+         id="g9163-4"
+         transform="translate(100.46933,160.15968)">
+        <rect
+           style="fill:#ffffff;stroke:#1c4eff;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect6213-7-0-2-4-0-29"
+           width="48.359409"
+           height="49.158024"
+           x="511.57031"
+           y="2525.345"
+           rx="5"
+           ry="5" />
+        <path
+           style="fill:#1c4eff;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dashoffset:0"
+           d="m 516.12684,112.48575 c -2.5274,0.2551 -4.46875,2.4031 -4.46875,5 l 0,7.12669 48.3606,0 0,-7.12669 c 0,-2.77 -2.23,-5 -5,-5 l -38.3606,0 c -0.17313,0 -0.36276,-0.017 -0.53125,0 z"
+           transform="translate(0,2412.9966)"
+           id="rect6213-7-0-2-4-3"
+           sodipodi:nodetypes="cccccccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="535.71094"
+           y="2536.6658"
+           id="text2820-7-4-8-9-0"><tspan
+             sodipodi:role="line"
+             id="tspan2822-88-0-2-2-77"
+             x="535.71094"
+             y="2536.6658"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#ffffff">revert</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="535.71094"
+           y="2546.2793"
+           id="text2820-7-4-8-9-6-8"><tspan
+             sodipodi:role="line"
+             x="535.71094"
+             y="2546.2793"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+             id="tspan9050-3">reset</tspan><tspan
+             id="tspan9260"
+             sodipodi:role="line"
+             x="535.71094"
+             y="2558.7793"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">checkout</tspan><tspan
+             id="tspan9262"
+             sodipodi:role="line"
+             x="535.71094"
+             y="2571.2793"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">revert</tspan></text>
+      </g>
+      <g
+         id="g9163-4-0"
+         transform="translate(198.60373,70.147732)">
+        <rect
+           style="fill:#ffffff;stroke:#1c4eff;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect6213-7-0-2-4-0-29-3"
+           width="48.359409"
+           height="65.244705"
+           x="511.57031"
+           y="2525.345"
+           rx="5"
+           ry="5" />
+        <path
+           style="fill:#1c4eff;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dashoffset:0"
+           d="m 516.12684,112.48575 c -2.5274,0.2551 -4.46875,2.4031 -4.46875,5 l 0,7.12669 48.3606,0 0,-7.12669 c 0,-2.77 -2.23,-5 -5,-5 l -38.3606,0 c -0.17313,0 -0.36276,-0.017 -0.53125,0 z"
+           transform="translate(0,2412.9966)"
+           id="rect6213-7-0-2-4-3-8"
+           sodipodi:nodetypes="cccccccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="535.71094"
+           y="2536.6658"
+           id="text2820-7-4-8-9-0-2"><tspan
+             sodipodi:role="line"
+             id="tspan2822-88-0-2-2-77-5"
+             x="535.71094"
+             y="2536.6658"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#ffffff">update</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="535.71094"
+           y="2549.6379"
+           id="text2820-7-4-8-9-6-8-2"><tspan
+             id="tspan9262-7"
+             sodipodi:role="line"
+             x="535.71094"
+             y="2549.6379"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">pull</tspan><tspan
+             id="tspan9315"
+             sodipodi:role="line"
+             x="535.71094"
+             y="2562.1379"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">fetch</tspan><tspan
+             id="tspan9317"
+             sodipodi:role="line"
+             x="535.71094"
+             y="2574.6379"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">merge</tspan><tspan
+             id="tspan9319"
+             sodipodi:role="line"
+             x="535.71094"
+             y="2587.1379"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">am</tspan></text>
+      </g>
+      <g
+         id="g9163-4-0-2"
+         transform="translate(100.46933,-0.15369141)">
+        <rect
+           style="fill:#ffffff;stroke:#1c4eff;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect6213-7-0-2-4-0-29-3-9"
+           width="48.359409"
+           height="41.910183"
+           x="511.57031"
+           y="2525.345"
+           rx="5"
+           ry="5" />
+        <path
+           style="fill:#1c4eff;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dashoffset:0"
+           d="m 516.12684,112.48575 c -2.5274,0.2551 -4.46875,2.4031 -4.46875,5 l 0,7.12669 48.3606,0 0,-7.12669 c 0,-2.77 -2.23,-5 -5,-5 l -38.3606,0 c -0.17313,0 -0.36276,-0.017 -0.53125,0 z"
+           transform="translate(0,2412.9966)"
+           id="rect6213-7-0-2-4-3-8-7"
+           sodipodi:nodetypes="cccccccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="535.71094"
+           y="2536.6658"
+           id="text2820-7-4-8-9-0-2-5"><tspan
+             sodipodi:role="line"
+             id="tspan2822-88-0-2-2-77-5-3"
+             x="535.71094"
+             y="2536.6658"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#ffffff">branch</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="535.71094"
+           y="2549.6379"
+           id="text2820-7-4-8-9-6-8-2-4"><tspan
+             id="tspan9319-1"
+             sodipodi:role="line"
+             x="535.71094"
+             y="2549.6379"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">checkout</tspan><tspan
+             id="tspan9379"
+             sodipodi:role="line"
+             x="535.71094"
+             y="2562.1379"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">branch</tspan></text>
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         transform="translate(0,2412.9966)"
+         id="path11176"
+         d="m 791.5,197.59003 c -41.5,-54.5 -105.5,-20.5 -105.5,-20.5"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         id="g9163-4-0-3"
+         transform="translate(267.08902,81.107887)">
+        <rect
+           style="fill:#ffffff;stroke:#1c4eff;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect6213-7-0-2-4-0-29-3-2"
+           width="48.359409"
+           height="43.324394"
+           x="511.57031"
+           y="2525.345"
+           rx="5"
+           ry="5" />
+        <path
+           style="fill:#1c4eff;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dashoffset:0"
+           d="m 516.12684,112.48575 c -2.5274,0.2551 -4.46875,2.4031 -4.46875,5 l 0,7.12669 48.3606,0 0,-7.12669 c 0,-2.77 -2.23,-5 -5,-5 l -38.3606,0 c -0.17313,0 -0.36276,-0.017 -0.53125,0 z"
+           transform="translate(0,2412.9966)"
+           id="rect6213-7-0-2-4-3-8-5"
+           sodipodi:nodetypes="cccccccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="535.71094"
+           y="2536.6658"
+           id="text2820-7-4-8-9-0-2-3"><tspan
+             sodipodi:role="line"
+             id="tspan2822-88-0-2-2-77-5-5"
+             x="535.71094"
+             y="2536.6658"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#ffffff">publish</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="535.71094"
+           y="2549.6379"
+           id="text2820-7-4-8-9-6-8-2-1"><tspan
+             id="tspan9319-6"
+             sodipodi:role="line"
+             x="535.71094"
+             y="2549.6379"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">push</tspan><tspan
+             id="tspan9831"
+             sodipodi:role="line"
+             x="535.71094"
+             y="2560.4668"
+             style="font-size:8px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">format-patch</tspan></text>
+      </g>
+      <g
+         transform="translate(-32.103382,-129.98658)"
+         id="g9865">
+        <rect
+           ry="5"
+           rx="5"
+           y="2713.7236"
+           x="615.75195"
+           height="88.756004"
+           width="105.28151"
+           id="rect6213-7-0-2-4-0-2-4"
+           style="fill:#ffffff;stroke:#1c4eff;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <g
+           id="g9149"
+           transform="translate(-48.013254,194.42362)">
+          <rect
+             ry="5"
+             rx="5"
+             y="2546.3889"
+             x="666.31006"
+             height="43.147617"
+             width="48.359409"
+             id="rect6213-7-0-2-4-0-2-2"
+             style="fill:#1c4eff;fill-opacity:1;stroke:none" />
+          <text
+             id="text2820-7-4-8-9-8-5"
+             y="2570.4895"
+             x="690.50439"
+             style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+             xml:space="preserve"><tspan
+               style="font-size:10px;text-align:center;text-anchor:middle;fill:#ffffff"
+               y="2570.4895"
+               x="690.50439"
+               id="tspan2822-88-0-2-2-7-7"
+               sodipodi:role="line">change</tspan></text>
+          <flowRoot
+             xml:space="preserve"
+             id="flowRoot8847-1"
+             style="font-size:6px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:0.49803922;stroke:none;font-family:Bitstream Vera Sans"
+             transform="matrix(0.74884588,0,0,0.74884588,472.98806,2349.0052)"><flowRegion
+               id="flowRegion8849-8"><rect
+                 id="rect8851-8"
+                 width="60.181271"
+                 height="6.6044555"
+                 x="260.35715"
+                 y="297.66147"
+                 style="font-size:6px;fill:#ffffff;fill-opacity:0.49803922" /></flowRegion><flowPara
+               id="flowPara8853-8">(see change workflow)</flowPara></flowRoot>        </g>
+        <g
+           id="g9154"
+           transform="translate(88.858532,181.18863)">
+          <rect
+             ry="5"
+             rx="5"
+             y="2542.1462"
+             x="581.1037"
+             height="74.260315"
+             width="48.359409"
+             id="rect6213-7-0-2-4-0-2"
+             style="fill:#ffffff;stroke:#1c4eff;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <path
+             sodipodi:nodetypes="cccccccc"
+             id="rect6213-7-0-2-4-8"
+             d="m 585.66023,2542.2836 c -2.5274,0.2551 -4.46875,2.4031 -4.46875,5 l 0,7.1267 48.3606,0 0,-7.1267 c 0,-2.77 -2.23,-5 -5,-5 l -38.3606,0 c -0.17313,0 -0.36276,-0.017 -0.53125,0 z"
+             style="fill:#1c4eff;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dashoffset:0" />
+          <text
+             id="text2820-7-4-8-9-8"
+             y="2553.467"
+             x="605.24432"
+             style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+             xml:space="preserve"><tspan
+               style="font-size:10px;text-align:center;text-anchor:middle;fill:#ffffff"
+               y="2553.467"
+               x="605.24432"
+               id="tspan2822-88-0-2-2-7"
+               sodipodi:role="line">browse</tspan></text>
+          <text
+             id="text2820-7-4-8-9-6-5"
+             y="2562.4392"
+             x="605.24432"
+             style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+             xml:space="preserve"><tspan
+               id="tspan9050-1"
+               style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               y="2562.4392"
+               x="605.24432"
+               sodipodi:role="line">status</tspan><tspan
+               style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               y="2574.9392"
+               x="605.24432"
+               sodipodi:role="line"
+               id="tspan9174">log</tspan><tspan
+               style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               y="2587.4392"
+               x="605.24432"
+               sodipodi:role="line"
+               id="tspan9176">show</tspan><tspan
+               style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               y="2599.9392"
+               x="605.24432"
+               sodipodi:role="line"
+               id="tspan9178">diff</tspan><tspan
+               style="font-size:10px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+               y="2612.4392"
+               x="605.24432"
+               sodipodi:role="line"
+               id="tspan9180">branch</tspan></text>
+        </g>
+      </g>
+      <g
+         style="fill:#1c4eff;fill-opacity:1"
+         transform="matrix(0.33421196,-0.26249911,0.26249911,0.33421196,-377.7296,1744.4393)"
+         id="g10869">
+        <g
+           style="fill:#1c4eff;fill-opacity:1"
+           id="g10859"
+           transform="translate(10.40625,-1.0625)">
+          <path
+             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#1c4eff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+             d="m 521.5,2887.8716 0,1 3.875,0 0,-1 -3.875,0 z"
+             id="path10665" />
+          <path
+             d="m 514.68989,2883.9489 12.01847,4.4195 -12.01847,4.4195 c 1.92005,-2.6092 1.90899,-6.1792 0,-8.839 z"
+             style="font-size:12px;fill:#1c4eff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+             id="path10865" />
+        </g>
+        <rect
+           style="fill:#1c4eff;fill-opacity:1;stroke:none"
+           id="rect10867"
+           width="11.21875"
+           height="3.125"
+           x="516.0625"
+           y="2885.7434" />
+      </g>
+      <g
+         style="fill:#1c4eff;fill-opacity:1"
+         transform="matrix(0.42495039,0.00453653,-0.00453653,0.42495039,361.39771,1398.7712)"
+         id="g10869-0">
+        <g
+           style="fill:#1c4eff;fill-opacity:1"
+           id="g10859-0"
+           transform="translate(10.40625,-1.0625)">
+          <path
+             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#1c4eff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+             d="m 521.5,2887.8716 0,1 3.875,0 0,-1 -3.875,0 z"
+             id="path10665-5" />
+          <path
+             d="m 514.68989,2883.9489 12.01847,4.4195 -12.01847,4.4195 c 1.92005,-2.6092 1.90899,-6.1792 0,-8.839 z"
+             style="font-size:12px;fill:#1c4eff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+             id="path10865-3" />
+        </g>
+        <rect
+           style="fill:#1c4eff;fill-opacity:1;stroke:none"
+           id="rect10867-1"
+           width="11.21875"
+           height="3.125"
+           x="516.0625"
+           y="2885.7434" />
+      </g>
+      <g
+         transform="translate(0,-0.3680947)"
+         id="g11060">
+        <g
+           id="g10869-0-0"
+           transform="matrix(0.42495039,0.00453653,-0.00453653,0.42495039,488.82788,1396.0358)"
+           style="fill:#1c4eff;fill-opacity:1">
+          <g
+             transform="translate(10.40625,-1.0625)"
+             id="g10859-0-6"
+             style="fill:#1c4eff;fill-opacity:1">
+            <path
+               id="path10665-5-7"
+               d="m 521.5,2887.8716 0,1 3.875,0 0,-1 -3.875,0 z"
+               style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#1c4eff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" />
+            <path
+               id="path10865-3-5"
+               style="font-size:12px;fill:#1c4eff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+               d="m 514.68989,2883.9489 12.01847,4.4195 -12.01847,4.4195 c 1.92005,-2.6092 1.90899,-6.1792 0,-8.839 z" />
+          </g>
+          <rect
+             y="2885.7434"
+             x="516.0625"
+             height="3.125"
+             width="11.21875"
+             id="rect10867-1-0"
+             style="fill:#1c4eff;fill-opacity:1;stroke:none" />
+        </g>
+        <g
+           id="g10869-0-0-0"
+           transform="matrix(-0.42495039,-0.00453653,0.00453653,-0.42495039,910.17212,3860.9305)"
+           style="fill:#1c4eff;fill-opacity:1">
+          <g
+             transform="translate(10.40625,-1.0625)"
+             id="g10859-0-6-4"
+             style="fill:#1c4eff;fill-opacity:1">
+            <path
+               id="path10665-5-7-5"
+               d="m 521.5,2887.8716 0,1 3.875,0 0,-1 -3.875,0 z"
+               style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#1c4eff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" />
+            <path
+               id="path10865-3-5-4"
+               style="font-size:12px;fill:#1c4eff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+               d="m 514.68989,2883.9489 12.01847,4.4195 -12.01847,4.4195 c 1.92005,-2.6092 1.90899,-6.1792 0,-8.839 z" />
+          </g>
+          <rect
+             y="2885.7434"
+             x="516.0625"
+             height="3.125"
+             width="11.21875"
+             id="rect10867-1-0-9"
+             style="fill:#1c4eff;fill-opacity:1;stroke:none" />
+        </g>
+      </g>
+      <g
+         style="fill:#1c4eff;fill-opacity:1"
+         transform="matrix(0.42495039,0.00453653,-0.00453653,0.42495039,557.07788,1398.7712)"
+         id="g10869-0-0-5">
+        <g
+           style="fill:#1c4eff;fill-opacity:1"
+           id="g10859-0-6-6"
+           transform="translate(10.40625,-1.0625)">
+          <path
+             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#1c4eff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+             d="m 521.5,2887.8716 0,1 3.875,0 0,-1 -3.875,0 z"
+             id="path10665-5-7-4" />
+          <path
+             d="m 514.68989,2883.9489 12.01847,4.4195 -12.01847,4.4195 c 1.92005,-2.6092 1.90899,-6.1792 0,-8.839 z"
+             style="font-size:12px;fill:#1c4eff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+             id="path10865-3-5-8" />
+        </g>
+        <rect
+           style="fill:#1c4eff;fill-opacity:1;stroke:none"
+           id="rect10867-1-0-2"
+           width="11.21875"
+           height="3.125"
+           x="516.0625"
+           y="2885.7434" />
+      </g>
+      <g
+         transform="matrix(0,1,-1,0,3264.7725,1876.5866)"
+         id="g11060-1">
+        <g
+           id="g10869-0-0-6"
+           transform="matrix(0.42495039,0.00453653,-0.00453653,0.42495039,488.82788,1396.0358)"
+           style="fill:#1c4eff;fill-opacity:1">
+          <g
+             transform="translate(10.40625,-1.0625)"
+             id="g10859-0-6-8"
+             style="fill:#1c4eff;fill-opacity:1">
+            <path
+               id="path10665-5-7-3"
+               d="m 521.5,2887.8716 0,1 3.875,0 0,-1 -3.875,0 z"
+               style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#1c4eff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" />
+            <path
+               id="path10865-3-5-1"
+               style="font-size:12px;fill:#1c4eff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+               d="m 514.68989,2883.9489 12.01847,4.4195 -12.01847,4.4195 c 1.92005,-2.6092 1.90899,-6.1792 0,-8.839 z" />
+          </g>
+          <rect
+             y="2885.7434"
+             x="516.0625"
+             height="3.125"
+             width="11.21875"
+             id="rect10867-1-0-4"
+             style="fill:#1c4eff;fill-opacity:1;stroke:none" />
+        </g>
+        <g
+           id="g10869-0-0-0-8"
+           transform="matrix(-0.42495039,-0.00453653,0.00453653,-0.42495039,910.17212,3860.9305)"
+           style="fill:#1c4eff;fill-opacity:1">
+          <g
+             transform="translate(10.40625,-1.0625)"
+             id="g10859-0-6-4-4"
+             style="fill:#1c4eff;fill-opacity:1">
+            <path
+               id="path10665-5-7-5-9"
+               d="m 521.5,2887.8716 0,1 3.875,0 0,-1 -3.875,0 z"
+               style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#1c4eff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" />
+            <path
+               id="path10865-3-5-4-2"
+               style="font-size:12px;fill:#1c4eff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+               d="m 514.68989,2883.9489 12.01847,4.4195 -12.01847,4.4195 c 1.92005,-2.6092 1.90899,-6.1792 0,-8.839 z" />
+          </g>
+          <rect
+             y="2885.7434"
+             x="516.0625"
+             height="3.125"
+             width="11.21875"
+             id="rect10867-1-0-9-0"
+             style="fill:#1c4eff;fill-opacity:1;stroke:none" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0,1,-1,0,3264.7725,1979.5866)"
+         id="g11060-1-7">
+        <g
+           id="g10869-0-0-6-0"
+           transform="matrix(0.42495039,0.00453653,-0.00453653,0.42495039,488.82788,1396.0358)"
+           style="fill:#1c4eff;fill-opacity:1">
+          <g
+             transform="translate(10.40625,-1.0625)"
+             id="g10859-0-6-8-6"
+             style="fill:#1c4eff;fill-opacity:1">
+            <path
+               id="path10665-5-7-3-0"
+               d="m 521.5,2887.8716 0,1 3.875,0 0,-1 -3.875,0 z"
+               style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#1c4eff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" />
+            <path
+               id="path10865-3-5-1-7"
+               style="font-size:12px;fill:#1c4eff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+               d="m 514.68989,2883.9489 12.01847,4.4195 -12.01847,4.4195 c 1.92005,-2.6092 1.90899,-6.1792 0,-8.839 z" />
+          </g>
+          <rect
+             y="2885.7434"
+             x="516.0625"
+             height="3.125"
+             width="11.21875"
+             id="rect10867-1-0-4-0"
+             style="fill:#1c4eff;fill-opacity:1;stroke:none" />
+        </g>
+        <g
+           id="g10869-0-0-0-8-5"
+           transform="matrix(-0.42495039,-0.00453653,0.00453653,-0.42495039,910.17212,3860.9305)"
+           style="fill:#1c4eff;fill-opacity:1">
+          <g
+             transform="translate(10.40625,-1.0625)"
+             id="g10859-0-6-4-4-6"
+             style="fill:#1c4eff;fill-opacity:1">
+            <path
+               id="path10665-5-7-5-9-7"
+               d="m 521.5,2887.8716 0,1 3.875,0 0,-1 -3.875,0 z"
+               style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#1c4eff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" />
+            <path
+               id="path10865-3-5-4-2-3"
+               style="font-size:12px;fill:#1c4eff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+               d="m 514.68989,2883.9489 12.01847,4.4195 -12.01847,4.4195 c 1.92005,-2.6092 1.90899,-6.1792 0,-8.839 z" />
+          </g>
+          <rect
+             y="2885.7434"
+             x="516.0625"
+             height="3.125"
+             width="11.21875"
+             id="rect10867-1-0-9-0-8"
+             style="fill:#1c4eff;fill-opacity:1;stroke:none" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.984778,0.17381685,-0.17381685,0.984778,512.27245,-129.22063)"
+         id="g11060-7">
+        <g
+           id="g10869-0-0-7"
+           transform="matrix(0.42495039,0.00453653,-0.00453653,0.42495039,488.82788,1396.0358)"
+           style="fill:#1c4eff;fill-opacity:1">
+          <g
+             transform="translate(10.40625,-1.0625)"
+             id="g10859-0-6-45"
+             style="fill:#1c4eff;fill-opacity:1">
+            <path
+               id="path10665-5-7-7"
+               d="m 521.5,2887.8716 0,1 3.875,0 0,-1 -3.875,0 z"
+               style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#1c4eff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" />
+            <path
+               id="path10865-3-5-9"
+               style="font-size:12px;fill:#1c4eff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+               d="m 514.68989,2883.9489 12.01847,4.4195 -12.01847,4.4195 c 1.92005,-2.6092 1.90899,-6.1792 0,-8.839 z" />
+          </g>
+          <rect
+             y="2885.7434"
+             x="516.0625"
+             height="3.125"
+             width="11.21875"
+             id="rect10867-1-0-8"
+             style="fill:#1c4eff;fill-opacity:1;stroke:none" />
+        </g>
+        <g
+           id="g10869-0-0-0-3"
+           transform="matrix(-0.42495039,-0.00453653,0.00453653,-0.42495039,910.17212,3860.9305)"
+           style="fill:#1c4eff;fill-opacity:1">
+          <g
+             transform="translate(10.40625,-1.0625)"
+             id="g10859-0-6-4-0"
+             style="fill:#1c4eff;fill-opacity:1">
+            <path
+               id="path10665-5-7-5-2"
+               d="m 521.5,2887.8716 0,1 3.875,0 0,-1 -3.875,0 z"
+               style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#1c4eff;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" />
+            <path
+               id="path10865-3-5-4-23"
+               style="font-size:12px;fill:#1c4eff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+               d="m 514.68989,2883.9489 12.01847,4.4195 -12.01847,4.4195 c 1.92005,-2.6092 1.90899,-6.1792 0,-8.839 z" />
+          </g>
+          <rect
+             y="2885.7434"
+             x="516.0625"
+             height="3.125"
+             width="11.21875"
+             id="rect10867-1-0-9-6"
+             style="fill:#1c4eff;fill-opacity:1;stroke:none" />
+        </g>
+      </g>
+    </g>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-2-5-4-7"
+       width="203.76683"
+       height="182.3625"
+       x="505.34454"
+       y="2755.9988" />
+    <rect
+       style="fill:#1c4eff;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-2-5-4-7-1"
+       width="203.76683"
+       height="40.405998"
+       x="505.34454"
+       y="2755.9988" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="523.09937"
+       y="2792.3115"
+       id="text2820-7-1-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan2822-88-1-4-5"
+         x="523.09937"
+         y="2792.3115"
+         style="font-size:20px;fill:#ffffff">Change Workflow</tspan></text>
+    <g
+       id="g11967"
+       transform="translate(-77.417784,-14.142136)">
+      <path
+         style="fill:#1c4eff;fill-opacity:1;stroke:none"
+         d="m 707.28256,2881.9164 0,7 c 0,1.662 1.338,3 3,3 l 14.15625,0 c 1.662,0 3,-1.338 3,-3 l 0,-7 -20.15625,0 z"
+         id="rect12125"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         sodipodi:nodetypes="cc"
+         transform="translate(0,2412.9966)"
+         id="path11657"
+         d="m 610.375,434.84003 0,82.875"
+         style="fill:none;stroke:#8d8d8d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         transform="translate(-101.46981,259.9657)"
+         id="g9149-4-6">
+        <rect
+           style="fill:#1c4eff;fill-opacity:1;stroke:none"
+           id="rect6213-7-0-2-4-0-2-2-0-1"
+           width="48.359409"
+           height="28.298374"
+           x="687.52325"
+           y="2560.8845"
+           rx="5"
+           ry="5" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="711.71759"
+           y="2571.55"
+           id="text2820-7-4-8-9-8-5-2-1"><tspan
+             sodipodi:role="line"
+             id="tspan2822-88-0-2-2-7-7-6-1"
+             x="711.71759"
+             y="2571.55"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#ffffff">working</tspan><tspan
+             id="tspan11574"
+             sodipodi:role="line"
+             x="711.71759"
+             y="2584.05"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#ffffff">directory</tspan></text>
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         id="path11657-3"
+         d="m 682.09284,2847.8366 0,82.875"
+         style="fill:none;stroke:#8d8d8d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         transform="translate(-29.610124,259.9657)"
+         id="g9149-4-6-7">
+        <rect
+           style="fill:#1c4eff;fill-opacity:1;stroke:none"
+           id="rect6213-7-0-2-4-0-2-2-0-1-3"
+           width="48.359409"
+           height="28.298374"
+           x="687.52325"
+           y="2560.8845"
+           rx="5"
+           ry="5" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="711.71759"
+           y="2571.55"
+           id="text2820-7-4-8-9-8-5-2-1-0"><tspan
+             id="tspan11574-4"
+             sodipodi:role="line"
+             x="711.71759"
+             y="2571.55"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#ffffff">staging</tspan><tspan
+             id="tspan11612"
+             sodipodi:role="line"
+             x="711.71759"
+             y="2584.05"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#ffffff">area</tspan></text>
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         id="path11657-3-8"
+         d="m 753.95259,2847.8366 0,82.875"
+         style="fill:none;stroke:#8d8d8d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         transform="translate(37.123109,259.9657)"
+         id="g9149-4-6-3">
+        <rect
+           style="fill:#1c4eff;fill-opacity:1;stroke:none"
+           id="rect6213-7-0-2-4-0-2-2-0-1-0"
+           width="58.612457"
+           height="28.298374"
+           x="687.52325"
+           y="2560.8845"
+           rx="5"
+           ry="5" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="716.71228"
+           y="2571.55"
+           id="text2820-7-4-8-9-8-5-2-1-1"><tspan
+             id="tspan11574-9"
+             sodipodi:role="line"
+             x="716.71228"
+             y="2571.55"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#ffffff">git direcrory</tspan><tspan
+             id="tspan11633"
+             sodipodi:role="line"
+             x="716.71228"
+             y="2584.05"
+             style="font-size:10px;text-align:center;text-anchor:middle;fill:#ffffff">(repository)</tspan></text>
+      </g>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         id="rect11703-7"
+         d="m 668.47816,2887.77 13.63206,13.4603 -13.63206,13.4602 0,-6.4663 -57.29852,0 0,-13.9878 57.29852,0 0,-6.4664 z"
+         style="fill:url(#linearGradient11996);fill-opacity:1;stroke:#1c4eff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:4px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="709.46741"
+         y="2885.5232"
+         id="text12119"><tspan
+           sodipodi:role="line"
+           id="tspan12121"
+           x="709.46741"
+           y="2885.5232">checkout</tspan><tspan
+           sodipodi:role="line"
+           x="709.46741"
+           y="2890.5232"
+           id="tspan12123">branch</tspan></text>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         id="rect11703-7-1"
+         d="m 624.3117,2861.52 -13.63206,13.4603 13.63206,13.4602 0,-6.4663 129.04852,0 0,-13.9878 -129.04852,0 0,-6.4664 z"
+         style="fill:url(#linearGradient11998);fill-opacity:1;stroke:#1c4eff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         id="text11718"
+         y="2877.0505"
+         x="655.0639"
+         style="font-size:6px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="2877.0505"
+           x="655.0639"
+           id="tspan11720"
+           sodipodi:role="line">checkout the project</tspan></text>
+      <text
+         id="text11718-7"
+         y="2903.3005"
+         x="620.15277"
+         style="font-size:6px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="2903.3005"
+           x="620.15277"
+           id="tspan11720-0"
+           sodipodi:role="line">stage the files</tspan></text>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         id="rect11703-7-6"
+         d="m 739.58323,2907.8764 13.63206,13.4603 -13.63206,13.4602 0,-6.4663 -57.29852,0 0,-13.9878 57.29852,0 0,-6.4664 z"
+         style="fill:url(#linearGradient12000);fill-opacity:1;stroke:#1c4eff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         id="text11718-7-2"
+         y="2923.407"
+         x="713.77344"
+         style="font-size:6px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="2923.407"
+           x="713.77344"
+           id="tspan11720-0-5"
+           sodipodi:role="line">commit</tspan></text>
+      <path
+         style="fill:#1c4eff;fill-opacity:1;stroke:none"
+         d="m 613.11578,2908.1348 0,3.1109 c 0,1.662 1.338,3 3,3 l 5.05225,0 c 1.662,0 3,-1.338 3,-3 l 0,-3.1109 -11.05225,0 z"
+         id="rect12125-0"
+         sodipodi:nodetypes="ccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-size:4px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="615.37531"
+         y="2911.7415"
+         id="text12119-5"><tspan
+           sodipodi:role="line"
+           id="tspan12121-9"
+           x="615.37531"
+           y="2911.7415">add</tspan><tspan
+           sodipodi:role="line"
+           x="615.37531"
+           y="2916.7415"
+           id="tspan12123-0" /></text>
+      <path
+         style="fill:#1c4eff;fill-opacity:1;stroke:none"
+         d="m 684.82065,2928.4641 0,3 c 0,1.662 1.338,3 3,3 l 10.15625,0 c 1.662,0 3,-1.338 3,-3 l 0,-3 -16.15625,0 z"
+         id="rect12125-0-9"
+         sodipodi:nodetypes="ccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-size:4px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="686.38513"
+         y="2931.6677"
+         id="text12119-5-3"><tspan
+           sodipodi:role="line"
+           x="686.38513"
+           y="2931.6677"
+           id="tspan12123-0-4">commit</tspan></text>
+    </g>
+    <rect
+       style="fill:#1c4eff;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-2-7"
+       width="242.30415"
+       height="40.406101"
+       x="254.66528"
+       y="2769.9937" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="271.98007"
+       y="2805.502"
+       id="text2820-7-4-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan2822-88-0-2-6"
+         x="271.98007"
+         y="2805.502"
+         style="font-size:20px;fill:#ffffff">Revert</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="279.09521"
+       y="2824.5581"
+       id="text2820-1-2-4-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-3-2"
+         x="279.09521"
+         y="2824.5581"
+         style="font-size:10px">Return to the last committed state</tspan></text>
+    <text
+       id="text2876-7-9-6-2"
+       y="2839.4807"
+       x="300.01266"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2839.4807"
+         x="300.01266"
+         sodipodi:role="line"
+         id="tspan8765-0">git reset --hard</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="377.93564"
+       y="2843.9238"
+       id="text12858"><tspan
+         sodipodi:role="line"
+         x="377.93564"
+         y="2843.9238"
+         id="tspan12864">you cannot undo a hard reset</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-3-1-8"
+       width="242.30415"
+       height="30.304577"
+       x="254.66528"
+       y="2852.9343" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="278.10538"
+       y="2863.519"
+       id="text2820-1-2-4-8-5-1"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-7-0-7"
+         x="278.10538"
+         y="2863.519"
+         style="font-size:10px">Revert the last commit</tspan></text>
+    <text
+       id="text2876-7-9-7-3-8"
+       y="2878.4417"
+       x="299.02283"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2878.4417"
+         x="299.02283"
+         sodipodi:role="line"
+         id="tspan6070-0-8-6-6">git revert HEAD</tspan></text>
+    <g
+       id="g10366"
+       transform="matrix(0.85864,0,0,0.85864,-82.925816,2632.3523)">
+      <g
+         id="g10377"
+         transform="matrix(0.64774,0,0,0.64774,255.1189,98.16207)">
+        <path
+           sodipodi:type="star"
+           style="fill:#adadac;fill-opacity:0.54195802;fill-rule:nonzero;stroke:none"
+           id="path10364"
+           sodipodi:sides="3"
+           sodipodi:cx="695.26276"
+           sodipodi:cy="690.75378"
+           sodipodi:r1="29.010775"
+           sodipodi:r2="14.505387"
+           sodipodi:arg1="-1.5707963"
+           sodipodi:arg2="-0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0.01"
+           inkscape:randomized="0"
+           d="m 695.26276,661.74301 c 0.50248,0 25.3753,43.081 25.12406,43.51616 -0.25124,0.43516 -49.99689,0.43516 -50.24813,0 -0.25124,-0.43516 24.62159,-43.51616 25.12407,-43.51616 z"
+           transform="matrix(0.340391,0,0,0.355264,189.8754,-16.49963)" />
+        <path
+           sodipodi:type="star"
+           style="fill:#fff359;fill-opacity:1;fill-rule:nonzero;stroke:#757575;stroke-width:2.21975303;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path9458"
+           sodipodi:sides="3"
+           sodipodi:cx="695.26276"
+           sodipodi:cy="690.75378"
+           sodipodi:r1="29.010775"
+           sodipodi:r2="14.505387"
+           sodipodi:arg1="-1.5707963"
+           sodipodi:arg2="-0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0.01"
+           inkscape:randomized="0"
+           d="m 695.26276,661.74301 c 0.50248,0 25.3753,43.081 25.12406,43.51616 -0.25124,0.43516 -49.99689,0.43516 -50.24813,0 -0.25124,-0.43516 24.62159,-43.51616 25.12407,-43.51616 z"
+           transform="matrix(0.340391,0,0,0.355264,187.696,-17.82387)" />
+        <path
+           sodipodi:type="star"
+           style="fill:url(#linearGradient10375-6);fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path10333"
+           sodipodi:sides="3"
+           sodipodi:cx="695.26276"
+           sodipodi:cy="690.75378"
+           sodipodi:r1="29.010775"
+           sodipodi:r2="14.505387"
+           sodipodi:arg1="-1.5707963"
+           sodipodi:arg2="-0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0.01"
+           inkscape:randomized="0"
+           d="m 695.26276,661.74301 c 0.50248,0 25.3753,43.081 25.12406,43.51616 -0.25124,0.43516 -49.99689,0.43516 -50.24813,0 -0.25124,-0.43516 24.62159,-43.51616 25.12407,-43.51616 z"
+           transform="matrix(0.279526,0,0,0.294538,230.5634,24.44901)" />
+        <text
+           xml:space="preserve"
+           style="font-size:12.31211376px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.43006993;stroke:none;font-family:OldSansBlack"
+           x="416.48819"
+           y="233.29938"
+           id="text10351"
+           sodipodi:linespacing="125%"
+           transform="scale(1.013392,0.986785)"><tspan
+             sodipodi:role="line"
+             id="tspan10353"
+             x="416.48819"
+             y="233.29938">!</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:12.31210709px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#a1811d;stroke-width:0.5789358;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:OldSansBlack"
+           x="416.8877"
+           y="233.7056"
+           id="text10355"
+           sodipodi:linespacing="125%"
+           transform="scale(1.013393,0.986784)"><tspan
+             sodipodi:role="line"
+             id="tspan10357"
+             x="416.8877"
+             y="233.7056">!</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="279.09521"
+       y="2894.9153"
+       id="text2820-1-2-4-5-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-3-2-6"
+         x="279.09521"
+         y="2894.9153"
+         style="font-size:10px">Revert specific commit</tspan></text>
+    <text
+       id="text2876-7-9-6-2-5"
+       y="2909.8379"
+       x="300.01266"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2909.8379"
+         x="300.01266"
+         sodipodi:role="line"
+         id="tspan8765-0-8">git revert $id</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-3-1-8-4"
+       width="242.30415"
+       height="35.607876"
+       x="254.66528"
+       y="2915.1597" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="278.10538"
+       y="2925.7444"
+       id="text2820-1-2-4-8-5-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-7-0-7-3"
+         x="278.10538"
+         y="2925.7444"
+         style="font-size:10px">Fix the last commit</tspan></text>
+    <text
+       id="text2876-7-9-7-3-8-7"
+       y="2940.667"
+       x="299.02283"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2940.667"
+         x="299.02283"
+         sodipodi:role="line"
+         id="tspan6070-0-8-6-6-8">git commit -a --amend</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="376.7041"
+       y="2879.2957"
+       id="text12858-3"><tspan
+         sodipodi:role="line"
+         x="376.7041"
+         y="2879.2957"
+         id="tspan12864-1">Creates a new commit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="376.7041"
+       y="2911.2957"
+       id="text12858-3-1"><tspan
+         sodipodi:role="line"
+         x="376.7041"
+         y="2911.2957"
+         id="tspan12864-1-2">Creates a new commit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="376.7041"
+       y="2947.2957"
+       id="text12858-3-1-5"><tspan
+         sodipodi:role="line"
+         x="376.7041"
+         y="2947.2957"
+         id="tspan12864-1-2-7">(after editing the broken files)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="279.09521"
+       y="2962.9153"
+       id="text2820-1-2-4-5-7-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-3-2-6-2"
+         x="279.09521"
+         y="2962.9153"
+         style="font-size:10px">Checkout the $id version of a file</tspan></text>
+    <text
+       id="text2876-7-9-6-2-5-1"
+       y="2977.8379"
+       x="300.01266"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2977.8379"
+         x="300.01266"
+         sodipodi:role="line"
+         id="tspan8765-0-8-6">git checkout $id $file</tspan></text>
+    <rect
+       style="fill:#1c4eff;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-2-7-9"
+       width="242.30415"
+       height="40.406101"
+       x="254.66528"
+       y="2986.3684" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="271.98007"
+       y="3021.8767"
+       id="text2820-7-4-8-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan2822-88-0-2-6-5"
+         x="271.98007"
+         y="3021.8767"
+         style="font-size:20px;fill:#ffffff">Branch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="279.09521"
+       y="3040.9329"
+       id="text2820-1-2-4-5-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-3-2-8"
+         x="279.09521"
+         y="3040.9329"
+         style="font-size:10px">Switch to the $id branch</tspan></text>
+    <text
+       id="text2876-7-9-6-2-3"
+       y="3055.8555"
+       x="300.01266"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="3055.8555"
+         x="300.01266"
+         sodipodi:role="line"
+         id="tspan8765-0-6">git checkout $id</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-3-1-8-6"
+       width="242.30415"
+       height="41.804577"
+       x="254.66528"
+       y="3061.3091" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="278.10538"
+       y="3071.8938"
+       id="text2820-1-2-4-8-5-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-7-0-7-6"
+         x="278.10538"
+         y="3071.8938"
+         style="font-size:10px">Merge branch $id1 into branch $id2</tspan></text>
+    <text
+       id="text2876-7-9-7-3-8-6"
+       y="3086.8164"
+       x="299.02283"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="3086.8164"
+         x="299.02283"
+         sodipodi:role="line"
+         id="tspan6070-0-8-6-6-7">git checkout $id2</tspan><tspan
+         y="3099.3164"
+         x="299.02283"
+         sodipodi:role="line"
+         id="tspan13340">git merge $id1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="279.09521"
+       y="3114.79"
+       id="text2820-1-2-4-5-7-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-3-2-6-6"
+         x="279.09521"
+         y="3114.79"
+         style="font-size:10px">Create branch $id based on HEAD</tspan></text>
+    <text
+       id="text2876-7-9-6-2-5-4"
+       y="3129.7126"
+       x="300.01266"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="3129.7126"
+         x="300.01266"
+         sodipodi:role="line"
+         id="tspan8765-0-8-8">git branch $id</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-3-1-8-4-6"
+       width="242.30415"
+       height="29.107876"
+       x="254.66528"
+       y="3135.0344" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="278.10538"
+       y="3145.6191"
+       id="text2820-1-2-4-8-5-1-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-7-0-7-3-7"
+         x="278.10538"
+         y="3145.6191"
+         style="font-size:10px">Create branch $new based on $id and switch to it</tspan></text>
+    <text
+       id="text2876-7-9-7-3-8-7-8"
+       y="3160.5417"
+       x="299.02283"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="3160.5417"
+         x="299.02283"
+         sodipodi:role="line"
+         id="tspan6070-0-8-6-6-8-0">git checkout -b $new $id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="279.09521"
+       y="3175.79"
+       id="text2820-1-2-4-5-7-6-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-3-2-6-2-3"
+         x="279.09521"
+         y="3175.79"
+         style="font-size:10px">Delete branch $branch</tspan></text>
+    <text
+       id="text2876-7-9-6-2-5-1-5"
+       y="3190.7126"
+       x="300.01266"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="3190.7126"
+         x="300.01266"
+         sodipodi:role="line"
+         id="tspan8765-0-8-6-5">git branch -d $branch</tspan></text>
+  </g>
+</svg>

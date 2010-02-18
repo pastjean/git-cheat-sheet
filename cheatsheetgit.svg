@@ -1075,6 +1075,41 @@
        y1="705.58557"
        x2="689.27637"
        y2="680.72919" />
+    <inkscape:perspective
+       id="perspective3421"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3518"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3615"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3642"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3669"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1083,16 +1118,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="500.59388"
-     inkscape:cy="98.927366"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="595.75834"
+     inkscape:cy="107.62467"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="1004"
-     inkscape:window-x="-4"
-     inkscape:window-y="20"
+     inkscape:window-width="1280"
+     inkscape:window-height="732"
+     inkscape:window-x="-8"
+     inkscape:window-y="38"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -3100,16 +3135,20 @@
          y="2839.4807"
          x="300.01266"
          sodipodi:role="line"
-         id="tspan8765-0">git reset --hard</tspan></text>
+         id="tspan3407">git checkout -f</tspan><tspan
+         y="2851.9807"
+         x="300.01266"
+         sodipodi:role="line"
+         id="tspan3411">git reset --hard</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="377.93564"
-       y="2843.9238"
+       x="389.93564"
+       y="2849.9238"
        id="text12858"><tspan
          sodipodi:role="line"
-         x="377.93564"
-         y="2843.9238"
+         x="389.93564"
+         y="2849.9238"
          id="tspan12864">you cannot undo a hard reset</tspan></text>
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
@@ -3141,7 +3180,7 @@
          id="tspan6070-0-8-6-6">git revert HEAD</tspan></text>
     <g
        id="g10366"
-       transform="matrix(0.85864,0,0,0.85864,-82.925816,2632.3523)">
+       transform="matrix(0.85864,0,0,0.85864,-70.925816,2638.3523)">
       <g
          id="g10377"
          transform="matrix(0.64774,0,0,0.64774,255.1189,98.16207)">
@@ -3271,22 +3310,22 @@
     <text
        xml:space="preserve"
        style="font-size:6px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="376.7041"
-       y="2879.2957"
+       x="382.7041"
+       y="2877.2957"
        id="text12858-3"><tspan
          sodipodi:role="line"
-         x="376.7041"
-         y="2879.2957"
+         x="382.7041"
+         y="2877.2957"
          id="tspan12864-1">Creates a new commit</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="376.7041"
-       y="2911.2957"
+       x="382.7041"
+       y="2909.2957"
        id="text12858-3-1"><tspan
          sodipodi:role="line"
-         x="376.7041"
-         y="2911.2957"
+         x="382.7041"
+         y="2909.2957"
          id="tspan12864-1-2">Creates a new commit</tspan></text>
     <text
        xml:space="preserve"
@@ -3324,38 +3363,38 @@
        id="rect6213-7-0-2-7-9"
        width="242.30415"
        height="40.406101"
-       x="254.66528"
-       y="2986.3684" />
+       x="505.6882"
+       y="2941.1135" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="271.98007"
-       y="3021.8767"
+       x="523.00299"
+       y="2976.6218"
        id="text2820-7-4-8-2-0"><tspan
          sodipodi:role="line"
          id="tspan2822-88-0-2-6-5"
-         x="271.98007"
-         y="3021.8767"
+         x="523.00299"
+         y="2976.6218"
          style="font-size:20px;fill:#ffffff">Branch</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="279.09521"
-       y="3040.9329"
+       x="530.1181"
+       y="2995.678"
        id="text2820-1-2-4-5-7-1"><tspan
          sodipodi:role="line"
          id="tspan2822-7-9-3-3-2-8"
-         x="279.09521"
-         y="3040.9329"
+         x="530.1181"
+         y="2995.678"
          style="font-size:10px">Switch to the $id branch</tspan></text>
     <text
        id="text2876-7-9-6-2-3"
-       y="3055.8555"
-       x="300.01266"
+       y="3010.6006"
+       x="551.03558"
        style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
-         y="3055.8555"
-         x="300.01266"
+         y="3010.6006"
+         x="551.03558"
          sodipodi:role="line"
          id="tspan8765-0-6">git checkout $id</tspan></text>
     <rect
@@ -3363,102 +3402,340 @@
        id="rect6213-7-0-8-3-1-8-6"
        width="242.30415"
        height="41.804577"
-       x="254.66528"
-       y="3061.3091" />
+       x="505.6882"
+       y="3016.0542" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="278.10538"
-       y="3071.8938"
+       x="529.1283"
+       y="3026.6389"
        id="text2820-1-2-4-8-5-1-1"><tspan
          sodipodi:role="line"
          id="tspan2822-7-9-3-7-0-7-6"
-         x="278.10538"
-         y="3071.8938"
-         style="font-size:10px">Merge branch $id1 into branch $id2</tspan></text>
+         x="529.1283"
+         y="3026.6389"
+         style="font-size:10px">Merge branch $1 into branch $2</tspan></text>
     <text
        id="text2876-7-9-7-3-8-6"
-       y="3086.8164"
-       x="299.02283"
+       y="3041.5615"
+       x="550.04572"
        style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
-         y="3086.8164"
-         x="299.02283"
+         y="3041.5615"
+         x="550.04572"
          sodipodi:role="line"
-         id="tspan6070-0-8-6-6-7">git checkout $id2</tspan><tspan
-         y="3099.3164"
-         x="299.02283"
+         id="tspan6070-0-8-6-6-7">git checkout $2</tspan><tspan
+         y="3054.0615"
+         x="550.04572"
          sodipodi:role="line"
-         id="tspan13340">git merge $id1</tspan></text>
+         id="tspan13340">git merge $1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="279.09521"
-       y="3114.79"
+       x="530.1181"
+       y="3069.5352"
        id="text2820-1-2-4-5-7-6-5"><tspan
          sodipodi:role="line"
          id="tspan2822-7-9-3-3-2-6-6"
-         x="279.09521"
-         y="3114.79"
-         style="font-size:10px">Create branch $id based on HEAD</tspan></text>
+         x="530.1181"
+         y="3069.5352"
+         style="font-size:10px">Create branch based on HEAD</tspan></text>
     <text
        id="text2876-7-9-6-2-5-4"
-       y="3129.7126"
-       x="300.01266"
+       y="3084.4578"
+       x="551.03558"
        style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
-         y="3129.7126"
-         x="300.01266"
+         y="3084.4578"
+         x="551.03558"
          sodipodi:role="line"
-         id="tspan8765-0-8-8">git branch $id</tspan></text>
+         id="tspan8765-0-8-8">git branch $name</tspan></text>
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect6213-7-0-8-3-1-8-4-6"
        width="242.30415"
        height="29.107876"
-       x="254.66528"
-       y="3135.0344" />
+       x="505.6882"
+       y="3089.7795" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="278.10538"
-       y="3145.6191"
+       x="529.1283"
+       y="3100.3643"
        id="text2820-1-2-4-8-5-1-0-8"><tspan
          sodipodi:role="line"
          id="tspan2822-7-9-3-7-0-7-3-7"
-         x="278.10538"
-         y="3145.6191"
-         style="font-size:10px">Create branch $new based on $id and switch to it</tspan></text>
+         x="529.1283"
+         y="3100.3643"
+         style="font-size:10px">Create branch based on another</tspan></text>
     <text
        id="text2876-7-9-7-3-8-7-8"
-       y="3160.5417"
-       x="299.02283"
+       y="3115.2869"
+       x="550.04572"
        style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
-         y="3160.5417"
-         x="299.02283"
+         y="3115.2869"
+         x="550.04572"
          sodipodi:role="line"
-         id="tspan6070-0-8-6-6-8-0">git checkout -b $new $id</tspan></text>
+         id="tspan6070-0-8-6-6-8-0">git checkout -b $new $basebranch</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="279.09521"
-       y="3175.79"
+       x="530.1181"
+       y="3130.5352"
        id="text2820-1-2-4-5-7-6-6-1"><tspan
          sodipodi:role="line"
          id="tspan2822-7-9-3-3-2-6-2-3"
-         x="279.09521"
-         y="3175.79"
-         style="font-size:10px">Delete branch $branch</tspan></text>
+         x="530.1181"
+         y="3130.5352"
+         style="font-size:10px">Delete a branch</tspan></text>
     <text
        id="text2876-7-9-6-2-5-1-5"
-       y="3190.7126"
-       x="300.01266"
+       y="3145.4578"
+       x="551.03558"
        style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
-         y="3190.7126"
-         x="300.01266"
+         y="3145.4578"
+         x="551.03558"
          sodipodi:role="line"
          id="tspan8765-0-8-6-5">git branch -d $branch</tspan></text>
+    <rect
+       style="fill:#1c4eff;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-2-7-9-1"
+       width="242.30415"
+       height="40.406101"
+       x="762.00543"
+       y="2756.1826" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="779.32025"
+       y="2791.6909"
+       id="text2820-7-4-8-2-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan2822-88-0-2-6-5-4"
+         x="779.32025"
+         y="2791.6909"
+         style="font-size:20px;fill:#ffffff">Update</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="786.43536"
+       y="2810.7471"
+       id="text2820-1-2-4-5-7-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-3-2-8-9"
+         x="786.43536"
+         y="2810.7471"
+         style="font-size:10px">Fetch the latest changes from origin</tspan></text>
+    <text
+       id="text2876-7-9-6-2-3-4"
+       y="2825.6697"
+       x="807.35284"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2825.6697"
+         x="807.35284"
+         sodipodi:role="line"
+         id="tspan8765-0-6-8">git fetch</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-3-1-8-6-8"
+       width="242.30415"
+       height="41.804577"
+       x="762.00543"
+       y="2831.1233" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="785.44556"
+       y="2841.708"
+       id="text2820-1-2-4-8-5-1-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-7-0-7-6-4"
+         x="785.44556"
+         y="2841.708"
+         style="font-size:10px">Pull latest changes from origin</tspan></text>
+    <text
+       id="text2876-7-9-7-3-8-6-5"
+       y="2856.6306"
+       x="806.36298"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2856.6306"
+         x="806.36298"
+         sodipodi:role="line"
+         id="tspan13340-1">git pull</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="786.43536"
+       y="2884.6042"
+       id="text2820-1-2-4-5-7-6-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-3-2-6-6-1"
+         x="786.43536"
+         y="2884.6042"
+         style="font-size:10px">Apply a patch that someone sent you</tspan></text>
+    <text
+       id="text2876-7-9-6-2-5-4-1"
+       y="2899.5269"
+       x="807.35284"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2899.5269"
+         x="807.35284"
+         sodipodi:role="line"
+         id="tspan8765-0-8-8-5">git am-3 patch.mbox</tspan><tspan
+         y="2912.0269"
+         x="807.35284"
+         sodipodi:role="line"
+         id="tspan3659">git am --resolved</tspan></text>
+    <rect
+       style="fill:#1c4eff;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-2-7-9-1-1"
+       width="242.30415"
+       height="40.406101"
+       x="760.89636"
+       y="2921.6248" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="778.21118"
+       y="2957.1331"
+       id="text2820-7-4-8-2-0-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan2822-88-0-2-6-5-4-8"
+         x="778.21118"
+         y="2957.1331"
+         style="font-size:20px;fill:#ffffff">Publish</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="785.32629"
+       y="2976.1892"
+       id="text2820-1-2-4-5-7-1-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-3-2-8-9-7"
+         x="785.32629"
+         y="2976.1892"
+         style="font-size:10px">Commit all your local changes</tspan></text>
+    <text
+       id="text2876-7-9-6-2-3-4-6"
+       y="2991.1118"
+       x="806.24377"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="2991.1118"
+         x="806.24377"
+         sodipodi:role="line"
+         id="tspan8765-0-6-8-1">git commit -a</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-3-1-8-6-8-8"
+       width="242.30415"
+       height="31.197973"
+       x="760.89636"
+       y="2996.5654" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="784.33649"
+       y="3007.1501"
+       id="text2820-1-2-4-8-5-1-1-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-7-0-7-6-4-2"
+         x="784.33649"
+         y="3007.1501"
+         style="font-size:10px">Prepare a patch for the other developers</tspan></text>
+    <text
+       id="text2876-7-9-7-3-8-6-5-7"
+       y="3022.0728"
+       x="805.25391"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="3034.5728"
+         x="805.25391"
+         sodipodi:role="line"
+         id="tspan13340-1-5">git format-patch origin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="785.32629"
+       y="3040.0464"
+       id="text2820-1-2-4-5-7-6-5-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-3-2-6-6-1-3"
+         x="785.32629"
+         y="3040.0464"
+         style="font-size:10px">Push changes to origin</tspan></text>
+    <text
+       id="text2876-7-9-6-2-5-4-1-1"
+       y="3054.969"
+       x="806.24377"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="3054.969"
+         x="806.24377"
+         sodipodi:role="line"
+         id="tspan8765-0-8-8-5-2">git push</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6213-7-0-8-3-1-8-4-6-2-3"
+       width="242.30415"
+       height="29.107876"
+       x="760.89636"
+       y="3060.2908" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="784.33649"
+       y="3070.8755"
+       id="text2820-1-2-4-8-5-1-0-8-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-7-0-7-3-7-6-4"
+         x="784.33649"
+         y="3070.8755"
+         style="font-size:10px">Make a version or milestone</tspan></text>
+    <text
+       id="text2876-7-9-7-3-8-7-8-1-1"
+       y="3085.7981"
+       x="805.25391"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="3085.7981"
+         x="805.25391"
+         sodipodi:role="line"
+         id="tspan6070-0-8-6-6-8-0-4-1">git tag v1.0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="857.33038"
+       y="2826.1455"
+       id="text12858-3-1-5-2"><tspan
+         sodipodi:role="line"
+         x="857.33038"
+         y="2826.1455"
+         id="tspan12864-1-2-7-7">(this does not merge them)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="846.16846"
+       y="2860.322"
+       id="text12858-3-1-5-2-7"><tspan
+         sodipodi:role="line"
+         x="846.16846"
+         y="2860.322"
+         id="tspan12864-1-2-7-7-9">Does a fetch followed by a merge</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="835.49481"
+       y="2905.1785"
+       id="text12858-3-1-5-2-7-3"><tspan
+         sodipodi:role="line"
+         x="835.49481"
+         y="2905.1785"
+         id="tspan12864-1-2-7-7-9-1">In case of conflict, resolve the conflict and</tspan></text>
   </g>
 </svg>

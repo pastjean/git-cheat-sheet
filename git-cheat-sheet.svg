@@ -15,7 +15,10 @@
    id="svg3457"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="git-cheat-sheet-new.svg">
+   sodipodi:docname="git-cheat-sheet.svg"
+   inkscape:export-filename="\\CDP02\stjep\Bureau\git-cheat-sheet.png"
+   inkscape:export-xdpi="299.96191"
+   inkscape:export-ydpi="299.96191">
   <defs
      id="defs3459">
     <inkscape:perspective
@@ -612,8 +615,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="553.97606"
-     inkscape:cy="197.90863"
+     inkscape:cx="131.49648"
+     inkscape:cy="268.61931"
      inkscape:current-layer="layer1"
      id="namedview3461"
      showgrid="false"
@@ -630,7 +633,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -891,7 +894,7 @@
            id="tspan6070-0-8"
            sodipodi:role="line"
            x="18.257778"
-           y="313.61487">git dif</tspan></text>
+           y="313.61487">git diff</tspan></text>
       <text
          id="text2820-1-2-4-7"
          y="329.37036"
@@ -1299,7 +1302,7 @@
            id="tspan6070-0-7-1"
            sodipodi:role="line"
            x="218.25777"
-           y="339.98965">git diff &lt;ID1&gt; &lt;ID2&gt;</tspan></text>
+           y="339.98965">git push [origin] [branch]</tspan></text>
       <text
          id="text2820-1-2-4-8-4-6"
          y="355.78812"
@@ -1726,7 +1729,7 @@
            y="267.48792"
            x="611.6189"
            id="tspan2822-7-9-3-3-2-6-2"
-           sodipodi:role="line">Checkout the $id version of a file</tspan></text>
+           sodipodi:role="line">Checkout the ID version of a file</tspan></text>
       <text
          sodipodi:linespacing="125%"
          xml:space="preserve"
@@ -1737,7 +1740,7 @@
            id="tspan8765-0-8-6"
            sodipodi:role="line"
            x="620.53632"
-           y="278.41052">git checkout $id $file</tspan></text>
+           y="278.41052">git checkout &lt;ID&gt; &lt;file&gt;</tspan></text>
     </g>
     <g
        id="g7931"

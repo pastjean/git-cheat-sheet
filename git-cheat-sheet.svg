@@ -606,6 +606,34 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3296"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3340"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3368"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3401"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      inkscape:document-units="mm"
@@ -614,16 +642,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="131.49648"
-     inkscape:cy="268.61931"
+     inkscape:zoom="0.98776809"
+     inkscape:cx="355.91701"
+     inkscape:cy="243.44751"
      inkscape:current-layer="layer1"
      id="namedview3461"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="1004"
-     inkscape:window-x="-4"
-     inkscape:window-y="20"
+     inkscape:window-width="1280"
+     inkscape:window-height="753"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3463">
@@ -633,7 +661,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -711,6 +739,16 @@
            y="67.50927"
            x="922.86401"
            sodipodi:role="line"
+           id="tspan3328">http://help.github.com/</tspan><tspan
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           y="77.50927"
+           x="922.86401"
+           sodipodi:role="line"
+           id="tspan3330">http://progit.org/book/</tspan><tspan
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           y="87.50927"
+           x="922.86401"
+           sodipodi:role="line"
            id="tspan8637">http://gitready.com/</tspan></text>
       <text
          id="text3609-1"
@@ -731,7 +769,8 @@
        x="0.58587033"
        y="56.376564" />
     <g
-       id="g8490">
+       id="g8490"
+       transform="translate(0,-18)">
       <g
          id="g4139">
         <rect
@@ -813,7 +852,7 @@
       <text
          sodipodi:linespacing="100%"
          xml:space="preserve"
-         style="font-size:7px;font-style:normal;font-weight:normal;fill:#4f524f;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="77.207962"
          y="222.74527"
          id="text2876-1"><tspan
@@ -822,12 +861,54 @@
            x="77.207962"
            y="222.74527"><tspan
    id="tspan7672"
-   style="-inkscape-font-specification:Droid Sans Bold;font-family:Droid Sans;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%">default</tspan> protocol is <tspan
+   style="font-size:7px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">default</tspan> protocol is <tspan
    id="tspan4103"
-   style="font-size:7px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#4f524f;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">ssh</tspan></tspan></text>
+   style="font-size:7px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">ssh</tspan></tspan></text>
+      <text
+         id="text2820-1-2-8-6"
+         y="232.97345"
+         x="11.909338"
+         style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid sans;-inkscape-font-specification:Droid sans"
+         xml:space="preserve"><tspan
+           style="font-size:8px;font-family:Droid sans;-inkscape-font-specification:Droid sans"
+           y="232.97345"
+           x="11.909338"
+           id="tspan2822-7-9-1-7"
+           sodipodi:role="line">Remote repository for existing local data</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         xml:space="preserve"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#a87ba4;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         x="16.127811"
+         y="244.729"
+         id="text2876-7-8-3"><tspan
+           id="tspan6137-5"
+           sodipodi:role="line"
+           x="16.127811"
+           y="244.729">mkdir repo.git &amp;&amp; cd repo.git</tspan><tspan
+           sodipodi:role="line"
+           x="16.127811"
+           y="254.729"
+           id="tspan3324">git init --bare [--shared=group]</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         xml:space="preserve"
+         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         x="90.423492"
+         y="262.02325"
+         id="text2876-1-1"><tspan
+           sodipodi:role="line"
+           id="tspan2878-2-0"
+           x="90.423492"
+           y="262.02325"><tspan
+   id="tspan7672-5"
+   style="font-size:7px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"><tspan
+   style="font-weight:normal;-inkscape-font-specification:Droid Sans"
+   id="tspan3391">see </tspan>help</tspan> for info</tspan></text>
     </g>
     <g
-       id="g8442">
+       id="g8442"
+       transform="translate(0,18)">
       <g
          transform="translate(0,129.48038)"
          id="g4139-7">
@@ -1074,7 +1155,7 @@
       <text
          sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:7px;font-style:normal;font-weight:normal;fill:#4f524f;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="43.769913"
          y="505.89615"
          id="text2876-1-9"><tspan
@@ -1084,7 +1165,8 @@
            y="505.89615">star &quot;*&quot; marks the current branch</tspan></text>
     </g>
     <g
-       id="g8335">
+       id="g8335"
+       transform="translate(0,-18)">
       <g
          transform="translate(199.99999,0)"
          id="g4139-9">
@@ -1133,7 +1215,7 @@
       <text
          sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:7px;font-style:normal;font-weight:normal;fill:#4f524f;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="244.80794"
          y="161.4839"
          id="text2876-1-9-6"><tspan
@@ -1166,7 +1248,7 @@
       <text
          sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:7px;font-style:normal;font-weight:normal;fill:#4f524f;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="244.80794"
          y="187.4839"
          id="text2876-1-9-6-5"><tspan
@@ -1203,7 +1285,7 @@
       <text
          sodipodi:linespacing="125%"
          xml:space="preserve"
-         style="font-size:7px;font-style:normal;font-weight:normal;fill:#4f524f;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4f524f;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="244.66399"
          y="215.06743"
          id="text2876-1-9-6-5-1"><tspan
@@ -1213,7 +1295,8 @@
            y="215.06743">In case of conflict, resolve the conflict and</tspan></text>
     </g>
     <g
-       id="g8313">
+       id="g8313"
+       transform="translate(0,-18)">
       <g
          transform="translate(199.99999,129.48038)"
          id="g4139-7-0">
@@ -1328,7 +1411,7 @@
     </g>
     <g
        id="g7674"
-       transform="translate(-16.49937,-8.0615746)">
+       transform="translate(-16.49937,9.938425)">
       <g
          transform="translate(16.49937,443.3866)"
          id="g4139-9-5">
@@ -1474,7 +1557,7 @@
     </g>
     <g
        id="g7701"
-       transform="translate(-400,276.39684)">
+       transform="translate(-400,258.39684)">
       <g
          transform="translate(599.99999,0)"
          id="g4139-9-5-2">
@@ -1744,7 +1827,7 @@
     </g>
     <g
        id="g7931"
-       transform="translate(207.50826,0)">
+       transform="translate(207.50826,-18)">
       <g
          transform="translate(417.65105,354.70928)"
          id="g4139-9-5-2-1">
@@ -1952,7 +2035,7 @@
          y="710.01379"
          x="676.90399"
          id="tspan2878-2-3-6-7"
-         sodipodi:role="line">This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License : http://creativecommons.org/licenses/by-nc-sa/3.0/</tspan></text>
+         sodipodi:role="line">This work is licensed under a Creative Commons Attribution-Share Alike 3.0 Unported License : http://creativecommons.org/licenses/by-sa/3.0/</tspan></text>
     <g
        id="g7855"
        transform="translate(16.191082,0)">
@@ -1985,7 +2068,8 @@
            sodipodi:role="line">Legend</tspan></text>
     </g>
     <g
-       id="g8360">
+       id="g8360"
+       transform="translate(0,-18)">
       <g
          transform="matrix(1.5031979,0,0,1.5031979,-302.2459,-386.98403)"
          id="g7240">
@@ -2434,7 +2518,7 @@
     </g>
     <g
        id="g8158"
-       transform="translate(253.201,0)">
+       transform="translate(253.201,-18)">
       <g
          transform="translate(595.11761,354.70928)"
          id="g4139-9-4-2"
@@ -2483,174 +2567,174 @@
            y="515.27216">global is stored in ~/.gitconfig</tspan></text>
       <text
          id="text2820-8"
-         y="550.47479"
+         y="540.47479"
          x="667.7868"
          style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:droid sans;-inkscape-font-specification:droid sans"
          xml:space="preserve"><tspan
            style="font-size:8px;text-align:end;text-anchor:end;font-family:droid sans;-inkscape-font-specification:droid sans"
-           y="550.47479"
+           y="540.47479"
            x="667.7868"
            id="tspan2822-8"
            sodipodi:role="line">user</tspan></text>
       <path
          sodipodi:nodetypes="ccccccccc"
-         d="m 670.86162,559.99486 0,-23.32916 4.74146,0 0,1.7795 -2.59167,0 0,19.77006 2.59167,0 0,1.7796 -4.74146,0 z"
+         d="m 670.86162,549.99486 0,-23.32916 4.74146,0 0,1.7795 -2.59167,0 0,19.77006 2.59167,0 0,1.7796 -4.74146,0 z"
          id="path2864-2"
          style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:droid sans;-inkscape-font-specification:droid sans" />
       <text
          sodipodi:linespacing="125%"
          id="text2820-8-4"
-         y="546.133"
+         y="536.133"
          x="675.63068"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="546.133"
+           y="536.133"
            x="675.63068"
            id="tspan2822-8-5"
            sodipodi:role="line">user.name $name</tspan><tspan
            id="tspan11456"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="556.133"
+           y="546.133"
            x="675.63068"
            sodipodi:role="line">user.email $email</tspan></text>
       <text
          id="text2820-8-7"
-         y="578.7074"
+         y="568.7074"
          x="668.38507"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:droid sans;-inkscape-font-specification:droid sans"
          xml:space="preserve"><tspan
            style="font-size:8px;text-align:end;text-anchor:end;font-family:droid sans;-inkscape-font-specification:droid sans"
-           y="578.7074"
+           y="568.7074"
            x="668.38507"
            id="tspan2822-8-1"
            sodipodi:role="line">color</tspan></text>
       <path
          sodipodi:nodetypes="ccccccccc"
-         d="m 670.74562,581.83444 0,-12.25411 4.74146,0 0,1.7795 -2.59167,0 0,8.69501 2.59167,0 0,1.7796 -4.74146,0 z"
+         d="m 670.74562,571.83444 0,-12.25411 4.74146,0 0,1.7795 -2.59167,0 0,8.69501 2.59167,0 0,1.7796 -4.74146,0 z"
          id="path2864-2-1"
          style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:droid sans;-inkscape-font-specification:droid sans" />
       <text
          sodipodi:linespacing="125%"
          id="text2820-8-4-52"
-         y="578.68982"
+         y="568.68982"
          x="675.51465"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="578.68982"
+           y="568.68982"
            x="675.51465"
            id="tspan2822-8-5-7"
            sodipodi:role="line">color.ui auto</tspan></text>
       <text
          id="text2820-8-7-4"
-         y="662.7113"
+         y="652.7113"
          x="668.03455"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:droid sans;-inkscape-font-specification:droid sans"
          xml:space="preserve"><tspan
            style="font-size:8px;text-align:end;text-anchor:end;font-family:droid sans;-inkscape-font-specification:droid sans"
-           y="662.7113"
+           y="652.7113"
            x="668.03455"
            id="tspan2822-8-1-2"
            sodipodi:role="line">windows</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text2820-8-4-52-2"
-         y="662.7113"
+         y="652.7113"
          x="675.16412"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="662.7113"
+           y="652.7113"
            x="675.16412"
            id="tspan2822-8-5-7-2"
            sodipodi:role="line">core.autocrlf true</tspan></text>
       <text
          id="text2820-8-1"
-         y="602.40839"
+         y="592.40839"
          x="667.39008"
          style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:droid sans;-inkscape-font-specification:droid sans"
          xml:space="preserve"><tspan
            style="font-size:8px;text-align:end;text-anchor:end;font-family:droid sans;-inkscape-font-specification:droid sans"
-           y="602.40839"
+           y="592.40839"
            x="667.39008"
            id="tspan2822-8-6"
            sodipodi:role="line">github</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text2820-8-4-57"
-         y="597.40839"
+         y="587.40839"
          x="675.23401"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="597.40839"
+           y="587.40839"
            x="675.23401"
            id="tspan2822-8-5-6"
            sodipodi:role="line">github.user $user</tspan><tspan
            id="tspan8090"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="607.40839"
+           y="597.40839"
            x="675.23401"
            sodipodi:role="line">github.token $token</tspan></text>
       <text
          id="text2820-8-7-4-9"
-         y="636.31659"
+         y="626.31659"
          x="667.72742"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:droid sans;-inkscape-font-specification:droid sans"
          xml:space="preserve"><tspan
            style="font-size:8px;text-align:end;text-anchor:end;font-family:droid sans;-inkscape-font-specification:droid sans"
-           y="636.31659"
+           y="626.31659"
            x="667.72742"
            id="tspan2822-8-1-2-2"
            sodipodi:role="line">optimisation</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text2820-8-4-52-2-9"
-         y="632.31268"
+         y="622.31268"
          x="674.85706"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="632.31268"
+           y="622.31268"
            x="674.85706"
            id="tspan2822-8-5-7-2-5"
            sodipodi:role="line">pack.threads 0</tspan><tspan
            id="tspan11458"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="642.31268"
+           y="632.31268"
            x="674.85706"
            sodipodi:role="line">diff.renamelimit 0</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:8px;font-style:normal;font-weight:normal;fill:#4f524f;fill-opacity:1;stroke:none;font-family:droid sans;-inkscape-font-specification:droid sans"
          x="677.96246"
-         y="647.1723"
+         y="637.1723"
          id="text2876-8-8"><tspan
            style="font-size:6px;fill:#4f524f;fill-opacity:1;font-family:droid sans;-inkscape-font-specification:droid sans"
            sodipodi:role="line"
            id="tspan2878-0-8"
            x="677.96246"
-           y="647.1723">do not use on low memory pc</tspan></text>
+           y="637.1723">do not use on low memory pc</tspan></text>
       <path
          sodipodi:nodetypes="ccccccccc"
-         d="m 670.86162,611.99486 0,-23.32916 4.74146,0 0,1.7795 -2.59167,0 0,19.77006 2.59167,0 0,1.7796 -4.74146,0 z"
+         d="m 670.86162,601.99486 0,-23.32916 4.74146,0 0,1.7795 -2.59167,0 0,19.77006 2.59167,0 0,1.7796 -4.74146,0 z"
          id="path2864-2-8"
          style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:droid sans;-inkscape-font-specification:droid sans" />
       <path
          sodipodi:nodetypes="ccccccccc"
-         d="m 670.74562,665.83444 0,-12.25411 4.74146,0 0,1.7795 -2.59167,0 0,8.69501 2.59167,0 0,1.7796 -4.74146,0 z"
+         d="m 670.74562,655.83444 0,-12.25411 4.74146,0 0,1.7795 -2.59167,0 0,8.69501 2.59167,0 0,1.7796 -4.74146,0 z"
          id="path2864-2-1-2"
          style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:droid sans;-inkscape-font-specification:droid sans" />
       <path
          sodipodi:nodetypes="ccccccccc"
-         d="m 670.86162,645.99486 0,-23.32916 4.74146,0 0,1.7795 -2.59167,0 0,19.77006 2.59167,0 0,1.7796 -4.74146,0 z"
+         d="m 670.86162,635.99486 0,-23.32916 4.74146,0 0,1.7795 -2.59167,0 0,19.77006 2.59167,0 0,1.7796 -4.74146,0 z"
          id="path2864-2-8-3"
          style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:droid sans;-inkscape-font-specification:droid sans" />
     </g>
     <g
        id="g4139-7-0-3"
-       transform="translate(401.99999,354.70928)">
+       transform="translate(401.99999,336.70928)">
       <rect
          y="104.20802"
          x="10.276145"
@@ -2713,7 +2797,7 @@
          x="420.25775"
          sodipodi:role="line"
          id="tspan8633">git commit -m 'Initial commit'</tspan><tspan
-         y="566.82605"
+         y="577.70605"
          x="420.25775"
          sodipodi:role="line"
          id="tspan8635" /></text>
@@ -2791,5 +2875,27 @@
          x="420.25775"
          sodipodi:role="line"
          id="tspan8708">git branch -d &lt;branch&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid sans;-inkscape-font-specification:Droid sans"
+       x="413.98529"
+       y="479.77325"
+       id="text2820-1-2-4-8-4-6-6-8-99"><tspan
+         sodipodi:role="line"
+         id="tspan2822-7-9-3-7-9-5-8-2-0"
+         x="413.98529"
+         y="479.77325"
+         style="font-size:8px;font-family:Droid sans;-inkscape-font-specification:Droid sans">Get help !!!</tspan></text>
+    <text
+       id="text2876-7-9-7-6-7-7-8-8"
+       y="490.39252"
+       x="420.50708"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:136.00000143%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       xml:space="preserve"
+       sodipodi:linespacing="136%"><tspan
+         y="490.39252"
+         x="420.50708"
+         sodipodi:role="line"
+         id="tspan8639-2-1">git help [command]</tspan></text>
   </g>
 </svg>

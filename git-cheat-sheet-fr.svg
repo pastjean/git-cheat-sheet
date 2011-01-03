@@ -14,7 +14,7 @@
    height="210mm"
    id="svg3457"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.0 r9654"
    sodipodi:docname="git-cheat-sheet-fr.svg"
    inkscape:export-filename="\\CDP02\stjep\Bureau\git-cheat-sheet-fr.png"
    inkscape:export-xdpi="300"
@@ -614,16 +614,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="645.68078"
-     inkscape:cy="706.50165"
-     inkscape:current-layer="g7855"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="415.56155"
+     inkscape:cy="389.04595"
+     inkscape:current-layer="layer1"
      id="namedview3461"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="1004"
-     inkscape:window-x="-4"
-     inkscape:window-y="20"
+     inkscape:window-width="1889"
+     inkscape:window-height="1388"
+     inkscape:window-x="31"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3463">
@@ -633,7 +633,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1273,7 +1273,7 @@
            y="302.99557"
            x="211.73598"
            id="tspan2822-7-9-3-7-97"
-           sodipodi:role="line">Prepare a patch for other developpers</tspan></text>
+           sodipodi:role="line">Prepare un patch pour autre developpers</tspan></text>
       <text
          sodipodi:linespacing="136%"
          xml:space="preserve"
@@ -2022,7 +2022,7 @@
                id="tspan2822-88-0-2-2-4"
                x="544.70551"
                y="363.97684"
-               style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">create</tspan></text>
+               style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">créer</tspan></text>
           <text
              xml:space="preserve"
              style="font-size:6.80959129px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -2083,7 +2083,7 @@
                id="tspan2822-88-0-2-2-4-8-8"
                x="623.86176"
                y="363.97684"
-               style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">branch</tspan></text>
+               style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">Branche</tspan></text>
           <text
              xml:space="preserve"
              style="font-size:6.80959129px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -2134,7 +2134,7 @@
                id="tspan2822-88-0-2-2-4-8-8-4"
                x="661.86633"
                y="363.97684"
-               style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">revert</tspan></text>
+               style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">revenir</tspan></text>
           <text
              xml:space="preserve"
              style="font-size:6.80959129px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -2197,7 +2197,7 @@
                  y="363.97684"
                  x="583.86176"
                  id="tspan2822-88-0-2-2-4-8"
-                 sodipodi:role="line">browse</tspan></text>
+                 sodipodi:role="line">afficher</tspan></text>
             <text
                id="text2820-7-4-8-9-6-7-8"
                y="372.81036"
@@ -2286,9 +2286,9 @@
           <rect
              style="fill:#ed8b1f;fill-opacity:1;stroke:none"
              id="rect6213-7-0-2-4-0-5-3-7-7-3"
-             width="32.930782"
+             width="36.003838"
              height="43.777435"
-             x="725.42755"
+             x="724.29541"
              y="356.26785"
              rx="3.4047956"
              ry="3.4047956" />
@@ -2303,7 +2303,7 @@
                id="tspan2822-88-0-2-2-4-8-8-4-7"
                x="741.86633"
                y="363.97684"
-               style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">update</tspan></text>
+               style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">actualiser</tspan></text>
           <text
              xml:space="preserve"
              style="font-size:6.80959129px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -2358,7 +2358,7 @@
                id="tspan2822-88-0-2-2-4-8-8-2"
                x="783.86176"
                y="363.97684"
-               style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">publish</tspan></text>
+               style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">publier</tspan></text>
           <text
              xml:space="preserve"
              style="font-size:5.60190582px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -2421,7 +2421,7 @@
            style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
            id="rect6213-7-0-2-2"
            width="166.33655"
-           height="27.737913"
+           height="58.850609"
            x="10.276145"
            y="104.20802" />
         <text
@@ -2435,7 +2435,12 @@
              id="tspan3741-9-9"
              x="174.76608"
              y="128.04475"
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">Workflow</tspan></text>
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">circuit de</tspan><tspan
+             sodipodi:role="line"
+             x="174.76608"
+             y="128.04475"
+             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+             id="tspan5004">production</tspan></text>
       </g>
     </g>
     <g

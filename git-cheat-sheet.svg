@@ -14,7 +14,7 @@
    height="210mm"
    id="svg3457"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.0 r9654"
    sodipodi:docname="git-cheat-sheet.svg"
    inkscape:export-filename="\\CDP02\stjep\Bureau\git-cheat-sheet.png"
    inkscape:export-xdpi="299.96191"
@@ -642,16 +642,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98776809"
-     inkscape:cx="355.91701"
-     inkscape:cy="243.44751"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="5.5876601"
+     inkscape:cx="680.49534"
+     inkscape:cy="608.72231"
+     inkscape:current-layer="g7855"
      id="namedview3461"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="753"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-width="1889"
+     inkscape:window-height="1388"
+     inkscape:window-x="31"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3463">
@@ -2055,7 +2055,7 @@
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
            y="57.50927"
            x="691.90594"
-           sodipodi:role="line">[optionnal]</tspan></text>
+           sodipodi:role="line">[optional]</tspan></text>
       <text
          id="text3609-0"
          y="36.691311"

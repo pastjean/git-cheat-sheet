@@ -615,15 +615,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284272"
-     inkscape:cx="415.56155"
-     inkscape:cy="389.04595"
+     inkscape:cx="842.93019"
+     inkscape:cy="124.58802"
      inkscape:current-layer="layer1"
      id="namedview3461"
      showgrid="false"
-     inkscape:window-width="1889"
-     inkscape:window-height="1388"
-     inkscape:window-x="31"
-     inkscape:window-y="25"
+     inkscape:window-width="1278"
+     inkscape:window-height="751"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3463">
@@ -1273,7 +1273,7 @@
            y="302.99557"
            x="211.73598"
            id="tspan2822-7-9-3-7-97"
-           sodipodi:role="line">Prepare un patch pour autre developpers</tspan></text>
+           sodipodi:role="line">Prepare un patch pour un autre développeur</tspan></text>
       <text
          sodipodi:linespacing="136%"
          xml:space="preserve"
@@ -1295,7 +1295,7 @@
            y="329.37036"
            x="211.73598"
            id="tspan2822-7-9-3-1-6"
-           sodipodi:role="line">Envoyer les changements vers le dépot distant</tspan></text>
+           sodipodi:role="line">Envoyer les changements vers un autre dépot</tspan></text>
       <text
          sodipodi:linespacing="136%"
          xml:space="preserve"
@@ -1317,7 +1317,7 @@
            y="355.78812"
            x="211.73598"
            id="tspan2822-7-9-3-7-9-5"
-           sodipodi:role="line">Créer une version ou un jalon</tspan></text>
+           sodipodi:role="line">Créer une version ou un jalon (tag)</tspan></text>
       <text
          sodipodi:linespacing="136%"
          xml:space="preserve"
@@ -1945,7 +1945,7 @@
          id="tspan8328"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"><tspan
    style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-   id="tspan7847">HEAD</tspan> est la branche utilisée actuellement</tspan></text>
+   id="tspan7847">HEAD</tspan> est l'index utilisé actuellement</tspan></text>
     <text
        id="text2876-1-9-8-1"
        y="710.01379"

@@ -981,7 +981,7 @@
            id="tspan6070-0-9"
            sodipodi:role="line"
            x="18.257778"
-           y="419.24292">git blame &lt;file&gt;</tspan></text>
+           y="419.24292">git blame &lt;FILE&gt;</tspan></text>
       <text
          id="text2820-1-2-4-8-8"
          y="435.04138"
@@ -1047,7 +1047,7 @@
            id="tspan8041"
            sodipodi:role="line"
            x="18.257778"
-           y="526.75769">git grep &lt;pattern&gt; [path]</tspan></text>
+           y="526.75769">git grep &lt;PATTERN&gt; [PATH]</tspan></text>
       <text
          id="text2820-1-2-4-8-4-5-6-6"
          y="382.20587"
@@ -1325,7 +1325,7 @@
            id="tspan6070-0-7-1"
            sodipodi:role="line"
            x="218.25777"
-           y="339.98965">git push [origin] [branch]</tspan></text>
+           y="339.98965">git push [REMOTE] [BRANCH]</tspan></text>
       <text
          id="text2820-1-2-4-8-4-6"
          y="355.78812"
@@ -1347,7 +1347,7 @@
            id="tspan6070-0-8-5-5"
            sodipodi:role="line"
            x="218.25777"
-           y="366.40741">git tag &lt;version_name&gt;</tspan></text>
+           y="366.40741">git tag &lt;VERSION_NAME&gt;</tspan></text>
     </g>
     <g
        id="g7674"
@@ -1470,7 +1470,7 @@
            id="tspan6070-0-8-6-6-8-0"
            sodipodi:role="line"
            x="32.8167"
-           y="680.41223">git checkout &lt;new&gt; &lt;base&gt;</tspan></text>
+           y="680.41223">git checkout &lt;NEW&gt; &lt;BASE&gt;</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text2820-1-2-4-5-7-6-6-1"
@@ -1493,7 +1493,7 @@
            id="tspan8765-0-8-6-5"
            sodipodi:role="line"
            x="33.806568"
-           y="705.94574">git branch -d &lt;branch&gt;</tspan></text>
+           y="705.94574">git branch -d &lt;BRANCH&gt;</tspan></text>
     </g>
     <g
        id="g7701"
@@ -1684,7 +1684,7 @@
            id="tspan8765-0-8"
            sodipodi:role="line"
            x="620.53632"
-           y="218.41052">git revert $id</tspan></text>
+           y="218.41052">git revert &lt;ID&gt;</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text2820-1-2-4-8-5-1-0"
@@ -1763,7 +1763,7 @@
            id="tspan8765-0-8-6"
            sodipodi:role="line"
            x="620.53632"
-           y="278.41052">git checkout &lt;ID&gt; &lt;file&gt;</tspan></text>
+           y="278.41052">git checkout &lt;ID&gt; &lt;FILE&gt;</tspan></text>
     </g>
     <g
        id="g7931"
@@ -2558,12 +2558,12 @@
            y="546.133"
            x="675.63068"
            id="tspan2822-8-5"
-           sodipodi:role="line">user.name $name</tspan><tspan
+           sodipodi:role="line">user.name &lt;NAME&gt;</tspan><tspan
            id="tspan11456"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
            y="556.133"
            x="675.63068"
-           sodipodi:role="line">user.email $email</tspan></text>
+           sodipodi:role="line">user.email &lt;EMAIL&gt;</tspan></text>
       <text
          id="text2820-8-7"
          y="578.7074"
@@ -2638,12 +2638,12 @@
            y="597.40839"
            x="675.23401"
            id="tspan2822-8-5-6"
-           sodipodi:role="line">github.user $user</tspan><tspan
+           sodipodi:role="line">github.user &lt;USER&gt;</tspan><tspan
            id="tspan8090"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1c4eff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
            y="607.40839"
            x="675.23401"
-           sodipodi:role="line">github.token $token</tspan></text>
+           sodipodi:role="line">github.token &lt;TOKEN&gt;</tspan></text>
       <text
          id="text2820-8-7-4-9"
          y="636.31659"
@@ -2758,8 +2758,8 @@
          y="527.06604"
          x="420.25775"
          sodipodi:role="line"
-         id="tspan8629">&lt;do work&gt; </tspan><tspan
-         y="537.94604"
+         id="tspan8629">&lt;DO WORK&gt; </tspan><tspan
+         y="555.94604"
          x="420.25775"
          sodipodi:role="line"
          id="tspan8631">git add your files </tspan><tspan
@@ -2818,7 +2818,7 @@
          y="607.63629"
          x="420.25775"
          sodipodi:role="line"
-         id="tspan8639-2">git push &lt;origin&gt; &lt;branch&gt;</tspan></text>
+         id="tspan8639-2">git push &lt;REMOTE&gt; &lt;BRANCH&gt;</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Droid sans;-inkscape-font-specification:Droid sans"
@@ -2840,10 +2840,10 @@
          y="629.63629"
          x="420.25775"
          sodipodi:role="line"
-         id="tspan8639-2-3">git push &lt;origin&gt; :&lt;branch&gt;</tspan><tspan
-         y="640.5163"
+         id="tspan8639-2-3">git push &lt;REMOTE&gt; :&lt;BRANCH&gt;</tspan><tspan
+         y="658.5163"
          x="420.25775"
          sodipodi:role="line"
-         id="tspan8708">git branch -d &lt;branch&gt;</tspan></text>
+         id="tspan8708">git branch -d &lt;BRANCH&gt;</tspan></text>
   </g>
 </svg>

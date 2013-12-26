@@ -1,6 +1,8 @@
 Here is my GIT cheat sheet.
 ============================
 
+### [View](https://rawgithub.com/pastjean/git-cheat-sheet/master/git-cheat-sheet.svg) or [Download](https://github.com/pastjean/git-cheat-sheet/raw/master/git-cheat-sheet.svg)
+
 * Version : 1.3
 * Made and maintained with [Inkscape](http://www.inkscape.org)
 
